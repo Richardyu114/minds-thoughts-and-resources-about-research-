@@ -218,4 +218,20 @@ https://jeffhuang.com/best_paper_awards.html
 
 语义 SLAM 的难点在于怎样设计误差函数，将 Deep Learning 的检测或者分割结果作为一个观测，融入 SLAM 的优化问题中一起联合优化，同时还要尽可能做到至少 GPU 实时。
 
-就仅针对视觉而言，有ETH的SVO，ICRA2017的最佳论文Probabilistic Data Association for Semantic SLAM等，大多的工作都比较初步，大多数看到的还算是利用网络来融合语义标签，地图的构建是基于几何约束构建的，那么是否可以利用新的学习方法直接进行语义地图的构建，同时尽量使得地图的边缘清晰
+就仅针对视觉而言，有ETH的SVO，ICRA2017的最佳论文Probabilistic Data Association for Semantic SLAM等，大多的工作都比较初步，大多数看到的还算是利用网络来融合语义标签，地图的构建是基于几何约束构建的，那么是否可以利用新的学习方法直接进行语义地图的构建，同时尽量使得地图的边缘清晰。
+
+
+
+
+### <u>*4.用latex beamer做学术汇报PPT*</u>
+
+https://www.overleaf.com/learn/latex/Beamer_Presentations:_A_Tutorial_for_Beginners_(Part_1)%E2%80%94Getting_Started
+
+http://www.latexstudio.net/archives/2825.html
+
+### *<u>5.在没有导师的帮助下，如何寻找并做好自己的科研</u>*
+
+https://www.zhihu.com/question/23647187?utm_source=wechat_session&utm_medium=social&utm_oi=706533037407481856
+
+以我自己的经历来看，最重要的还是自己对自己研究方向的把控，这一点特别需要有专业的人给与指导和启发，同时引发自己的思考，然后在调研中确立。在研究学习的过程中，如果能有几个志同道合的人一起交流，一起质疑，对idea的产生和修正都大有裨益。此外一些科研人员必备的素养和技能，这都是需要自己在平时中养成良好的习惯，然后一点一滴积累的。当然，目前的技术发展已经如此迅速，没有办法从头开始，毕竟时间不长，因此需要我们有针对性地看待问题，站在巨人的肩膀上，先从别人那里获得经验和加成，先模仿然后尽可能快速地进入自己的研究和创新。
+
