@@ -196,3 +196,26 @@ Jeff Erickson，计算机科学教授，加州大学伯克利分校计算机科�
 
 https://hn.academy/
 
+## *2019.1.8*
+
+### *<u>1.分布式机器学习</u>*
+
+分布式机器学习的目的是为了解决目前训练数据大，计算资源有限，同时训练过程人为设定和死板的问题。。。*<u>这个分布式机器学习似乎与网络的去中心化思想有点类似</u>*，这个对于我们计算机视觉，三维建模有什么帮助呢？或许就是能够实时地认清周围的环境和世界。。
+
+https://mp.weixin.qq.com/s/yI075kYz3y1Lq51o19wjNA
+
+另有一书，《分布式机器学习：理论，算法与实践 》
+
+
+
+### *<u>2. Best paper awards in CS(since 1996)</u>*
+
+https://jeffhuang.com/best_paper_awards.html
+
+
+
+### *<u>3.最近一年semantic SLAM的代表工作</u>*
+
+语义 SLAM 的难点在于怎样设计误差函数，将 Deep Learning 的检测或者分割结果作为一个观测，融入 SLAM 的优化问题中一起联合优化，同时还要尽可能做到至少 GPU 实时。
+
+就仅针对视觉而言，有ETH的SVO，ICRA2017的最佳论文Probabilistic Data Association for Semantic SLAM等，大多的工作都比较初步，大多数看到的还算是利用网络来融合语义标签，地图的构建是基于几何约束构建的，那么是否可以利用新的学习方法直接进行语义地图的构建，同时尽量使得地图的边缘清晰
