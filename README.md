@@ -241,3 +241,17 @@ https://www.zhihu.com/question/23647187?utm_source=wechat_session&utm_medium=soc
 ### *<u>1.computer vision research groups</u>*
 
 http://www.cs.cmu.edu/~cil/v-groups.html
+
+## *2019.1.10*
+
+### *<u>1.一个博客网站“超立方体”</u>*
+
+博主的兴趣是几何视觉，还有pointNet，里面有一些项目，与自己相关，可以看看。
+
+https://hypercube.top/
+
+
+
+### *<u>2.语义分割和实例分割</u>*
+
+何恺明的论文Panoptic Feature Pyramid Networks以及dynamic SLAM都用到了该网络
