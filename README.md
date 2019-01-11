@@ -280,3 +280,16 @@ R-CNN-->FAST R-CNN-->FASTER R-CNN-->MASK R-CNN
 
 
 3D在无人驾驶中的定位，虽然上述系统比较低级，但是高级的东西在于感知和路径规划方面，这一点大多现在倾向用基于学习的方法。。。用于避障的精度地图。。。？
+
+
+## *2019.1.11*
+
+### *<u>1.Top 50 matplotlib Visualizations</u>*
+
+https://www.machinelearningplus.com/plots/top-50-matplotlib-visualizations-the-master-plots-python
+
+### 
+
+### *<u>2.在PyTorch中用单个2D图像创建3D模型</u>*
+
+https://chenhsuanlin.bitbucket.io/3D-point-cloud-generation/
