@@ -276,6 +276,7 @@ R-CNN-->FAST R-CNN-->FASTER R-CNN-->MASK R-CNN
 
 ### *<u>4.和姚师兄交流</u>*
 
+![image](https://github.com/Richardyu114/-/blob/master/images/the%20position%20of%203d%20reconstruction.png)
 
 
 3D在无人驾驶中的定位，虽然上述系统比较低级，但是高级的东西在于感知和路径规划方面，这一点大多现在倾向用基于学习的方法。。。用于避障的精度地图。。。？
