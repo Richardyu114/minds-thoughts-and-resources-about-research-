@@ -262,7 +262,7 @@ R-CNN-->FAST R-CNN-->FASTER R-CNN-->MASK R-CNN
 
 目标检测，实例分割，语义分割
 
-一篇博文进行概述：https://blog.csdn.net/jiongnima/article/details/79094159 
+一篇博文进行概述：https://towardsdatascience.com/deep-learning-for-object-detection-a-comprehensive-review-73930816d8d9
 
 
 总体的趋向是从单一的架构到复杂的，集成的网络化发展。上述网络的初衷应该是完成场景中的目标检测，比如可以用在无人驾驶中的行人检测。对于视觉slam来说，一是可以进行场景识别，提高回环检测的速度和效率，另一个是建图方面，对于建好的图进行实例分割和语义分割，但是问题是，什么样的图能被该网络利用，点云地图？还有，这样建图的意义何在，不能光想着建图，而没有一个落脚点，否则就是跟风和技术的堆砌。
@@ -293,3 +293,14 @@ https://www.machinelearningplus.com/plots/top-50-matplotlib-visualizations-the-m
 ### *<u>2.在PyTorch中用单个2D图像创建3D模型</u>*
 
 https://chenhsuanlin.bitbucket.io/3D-point-cloud-generation/
+
+
+## *2019.1.13*
+
+
+
+### *<u>1.2018 年度 GtiHub 开源项目 TOP 25：数据科学 & 机器学习</u>*
+
+https://mp.weixin.qq.com/s/tpB003Ow6HkA6J1a_gh_ww
+
+特别关注 fast-ai, pytorch, Facebook 的 Detectron 
