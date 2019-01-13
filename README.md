@@ -304,3 +304,4 @@ https://chenhsuanlin.bitbucket.io/3D-point-cloud-generation/
 https://mp.weixin.qq.com/s/tpB003Ow6HkA6J1a_gh_ww
 
 特别关注 fast-ai, pytorch, Facebook 的 Detectron 
+https://mp.weixin.qq.com/s/uqFy-1_JM9P2WKU5YOmwmA 
