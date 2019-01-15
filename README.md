@@ -304,4 +304,18 @@ https://chenhsuanlin.bitbucket.io/3D-point-cloud-generation/
 https://mp.weixin.qq.com/s/tpB003Ow6HkA6J1a_gh_ww
 
 特别关注 fast-ai, pytorch, Facebook 的 Detectron 
-https://mp.weixin.qq.com/s/uqFy-1_JM9P2WKU5YOmwmA 
+
+
+## *2019.1.15*
+
+### *<u>1.MIT deep learning</u>*
+
+https://deeplearning.mit.edu/
+
+
+### <u>*2.李飞飞实验室等最近的语义分割新进展*</u>
+
+[auto-deeplab](https://arxiv.org/pdf/1901.02985v1.pdf)
+
+
+
