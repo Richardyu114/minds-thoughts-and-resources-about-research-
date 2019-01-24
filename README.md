@@ -357,3 +357,8 @@ ANYbotics 团队推出了一项激动人心的解决方案：ANYmal。这是一�
 ### *<u>5. IBM的新研究：[intuition learning](https://goodboyanush.github.io/resources/intuition_learning.pdf)</u>*
 
 直觉学习这个东西期盼已久，毕竟深度学习对于数据的依赖和转移性导致了它不能完成多任务。因此类似与迁移学习，如何在已知的经验下，去估计未知的东西。。这也许对视觉SLAM的场景识别与理解会有帮助。
+
+## *2019.1.24*
+### *<u>1. 瑞士哥德堡大学的Artificial Neural Networks课程[FFR135](http://physics.gu.se/~frtbm/joomla/index.php?option=com_content&view=article&id=124&Itemid=509)</u>*
+
+近日，哥德堡大学物理系 Bernhard Mehlig 教授在 arXiv 上发布了他的一本「新书」《Artifical Neural Networks》。这本书正是他根据在哥德堡大学物理系 2018 秋季学期教学（FFR315）过程中的笔记整理而成。在这门课程中，他结合物理学（特别是统计物理学）的知识详细讲述了机器学习中神经网络在物理学中的各种应用，包括深度学习、卷积网络、强化学习，以及其他各种有监督和无监督机器学习算法。
