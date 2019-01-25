@@ -387,3 +387,4 @@ Hopfield 网络是一种可以识别或重构图像的人工神经网络，它�
 Sam Roweis是个非常有想法的学者，这门课的PPT写的很不错，看完CS229之后没事拿出来翻一翻。
 
 此外，[Neural Network for Machine Learning by Geoffrey Hinton](https://www.youtube.com/watch?v=cbeTc-Urqak&list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9)也不错，Hinton老爷子毕生研究神经网络，对这个东西理解的非常深刻。。
+[相关笔记和作业](https://github.com/liufuyang/course-Neural-Networks-for-Machine-Learning)
