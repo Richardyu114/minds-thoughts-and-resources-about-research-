@@ -380,3 +380,10 @@ Hopfield 网络是一种可以识别或重构图像的人工神经网络，它�
 - 作者提出一种新的对抗式技术，使得GANs可以在没有深度真值信息的情况下生成深度影像；
 
 - 相较于传统VO方法，本文算法在姿态和深度估计中没有严格精确的参数调整过程
+
+## *2019.1.25*
+
+### *<u>1. [Sam Roweis](https://cs.nyu.edu/~roweis/)的[machine learning](https://cs.nyu.edu/~roweis/csc2515/)</u>*
+Sam Roweis是个非常有想法的学者，这门课的PPT写的很不错，看完CS229之后没事拿出来翻一翻。
+
+此外，[Neural Network for Machine Learning by Geoffrey Hinton](https://www.youtube.com/watch?v=cbeTc-Urqak&list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9)也不错，Hinton老爷子毕生研究神经网络，对这个东西理解的非常深刻。。
