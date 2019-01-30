@@ -388,3 +388,15 @@ Sam Roweis是个非常有想法的学者，这门课的PPT写的很不错，看�
 
 此外，[Neural Network for Machine Learning by Geoffrey Hinton](https://www.youtube.com/watch?v=cbeTc-Urqak&list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9)也不错，Hinton老爷子毕生研究神经网络，对这个东西理解的非常深刻。。
 [相关笔记和作业](https://github.com/liufuyang/course-Neural-Networks-for-Machine-Learning)
+
+
+## *2019.1.30*
+
+### *<u>1. [一个基于单目的三位视觉重建综述](https://mp.weixin.qq.com/s/ihrExTygb-Pnnh4o4tAYnQ)，里面简单地介绍了SFM和深度学习重建的原理和缺陷。需要后期进行总结。</u>*
+
+重建流程：
+多视角图像-->图像特征提取匹配-->稀疏重建SfM-->稠密重建MVS-->点云模型化-->三维模型
+
+### *<u>2. [移动端单人姿态估计](https://github.com/edvardHua/PoseEstimationForMobile)</u>*
+
+估计的是人的骨架变化，并不是常规的长距离定位。
