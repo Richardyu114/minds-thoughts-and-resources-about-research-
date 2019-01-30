@@ -400,3 +400,13 @@ Sam Roweis是个非常有想法的学者，这门课的PPT写的很不错，看�
 ### *<u>2. [移动端单人姿态估计](https://github.com/edvardHua/PoseEstimationForMobile)</u>*
 
 估计的是人的骨架变化，并不是常规的长距离定位。
+
+
+### *<u>2.CSDN博客上对SLAM系统的论文和相关环节进行了梳理和材料推荐的[汇总帖](https://blog.csdn.net/heyijia0327/article/details/82855443)，大多还是基于VIO及一些数学基础，可以看看。</u>*
+  
+  
+  
+  
+  
+  
+  
