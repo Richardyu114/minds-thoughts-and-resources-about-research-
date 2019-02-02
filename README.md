@@ -404,7 +404,24 @@ Sam Roweis是个非常有想法的学者，这门课的PPT写的很不错，看�
 
 ### *<u>2.CSDN博客上对SLAM系统的论文和相关环节进行了梳理和材料推荐的[汇总帖](https://blog.csdn.net/heyijia0327/article/details/82855443)，大多还是基于VIO及一些数学基础，可以看看。</u>*
   
-  
+## *2019.2.2*
+
+### *<u>1. [史上引用次数最多的机器学习论文 Top 10](https://mp.weixin.qq.com/s/fiVyhyQwnOR-AXkj5Y_Ztg)</u>*
+- EM回归
+- logistic回归
+- 随机森林
+- 分类与回归数
+- 支持向量机开源库 libsvm
+- 统计学习理论
+- 主成分分析
+- 决策树
+- 深度卷积神经网络
+- 支持向量机
+
+
+
+
+
   
   
   
