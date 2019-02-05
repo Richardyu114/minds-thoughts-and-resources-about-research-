@@ -418,6 +418,10 @@ Sam Roweis是个非常有想法的学者，这门课的PPT写的很不错，看�
 - 深度卷积神经网络
 - 支持向量机
 
+## *2019.2.5*
+
+### *<u>1. [使用Python和Mask R-CNN自动寻找停车位](https://mp.weixin.qq.com/s/USkdhyEAiU-ZGqmw0v3fXQ)</u>*
+这是机器之心公众号转载的medium上的文章，是通过python爬数据和Mask R-CNN进行语义分割然后向用户发送车库信息。
 
 
 
