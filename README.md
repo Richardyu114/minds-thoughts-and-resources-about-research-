@@ -455,5 +455,11 @@ Sam Roweis是个非常有想法的学者，这门课的PPT写的很不错，看�
 - Large Scale GAN Training for High Fidelity Natural Image Synthesis
   
   
+ ### *<u>2. Face++ detection组最近在做的语义分割工作，其中也包含了对语义分割的[梳理](https://mp.weixin.qq.com/s/nB4FAKss1A5jmgKG3hdRoA)</u>*
+  
+  
+  
+  
+  
   
   
