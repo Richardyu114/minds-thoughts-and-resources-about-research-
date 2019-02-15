@@ -450,7 +450,7 @@ Sam Roweis是个非常有想法的学者，这门课的PPT写的很不错，看�
 - Taskonomy: Disentangling Task Transfer Learning              :open_mouth:
 - Self-Attention Generative Adversarial Networks
 - GANimation: Anatomically-aware Facial Animation from a Single Image
-- Video-to-Video Synthesis                :open_mouth
+- Video-to-Video Synthesis                :open_mouth:
 - Everybody Dance Now
 - Large Scale GAN Training for High Fidelity Natural Image Synthesis
   
