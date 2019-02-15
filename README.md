@@ -439,8 +439,20 @@ Sam Roweis是个非常有想法的学者，这门课的PPT写的很不错，看�
 因此，需要涉及组合原则和因果模型的互补方法，以捕捉数据的基本结构。此外，面对组合性爆炸，我们要再次思考如何训练和评估视觉算法。
 
 
+## *2019.2.15*
 
-  
+### *<u>1. [2018年度10大突破性计算机视觉文章](https://www.topbots.com/most-important-ai-computer-vision-research/#ai-cv-paper-2018-4)</u>*
+
+- Spherical CNNs        :open_mouth:
+- Adversarial Examples that Fool both Computer Vision and Time-Limited Humans
+- A Closed-form Solution to Photorealistic Image Stylization
+- Group Normalization
+- Taskonomy: Disentangling Task Transfer Learning              :open_mouth:
+- Self-Attention Generative Adversarial Networks
+- GANimation: Anatomically-aware Facial Animation from a Single Image
+- Video-to-Video Synthesis                :open_mouth
+- Everybody Dance Now
+- Large Scale GAN Training for High Fidelity Natural Image Synthesis
   
   
   
