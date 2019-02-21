@@ -457,9 +457,28 @@ Sam Roweis是个非常有想法的学者，这门课的PPT写的很不错，看�
   
  ### *<u>2. Face++ detection组最近在做的语义分割工作，其中也包含了对语义分割的[梳理](https://mp.weixin.qq.com/s/nB4FAKss1A5jmgKG3hdRoA)</u>*
   
-  
-  
-  
+ 
+ ## *2019.2.21*
+ 
+ ### *<u>1. [人工智能子领域高被引用学者名单](https://www.aminer.cn/mostinfluentialscholar)</u>*
+ 
+| [Theory](https://www.aminer.cn/mostinfluentialscholar/theory) | ACM Symposium on Theory of Computing<br/>IEEE Annual Symposium on Foundations of Computer Science |
+| ------------------------------------------------------------ | :----------------------------------------------------------- |
+| [Artificial Intelligence](https://www.aminer.cn/mostinfluentialscholar/ai) | AAAI Conference on Artificial Intelligence<br/>International Joint Conference on Artificial Intelligence |
+| [Machine Learning](https://www.aminer.cn/mostinfluentialscholar/ml) | Annual Conference on Neural Information Processing Systems<br/>International Conference on Machine Learning |
+| [Data Mining](https://www.aminer.cn/mostinfluentialscholar/datamining) | ACM SIGKDD International Conference on Knowledge Discovery and Data Mining |
+| [Database](https://www.aminer.cn/mostinfluentialscholar/database) | ACM SIGMOD International Conference on Management of Data<br/>International Conference on Very Large Data Bases |
+| [Multimedia](https://www.aminer.cn/mostinfluentialscholar/mm) | ACM International Conference on Multimedia                   |
+| [Security](https://www.aminer.cn/mostinfluentialscholar/security) | ACM Conference on Computer and Communications Security <br/>IEEE Symposium on Security and Privacy |
+| [System](https://www.aminer.cn/mostinfluentialscholar/system) | ACM Symposium on Operating Systems Principles<br/>USENIX Symposium on Operating Systems Design and Implementation |
+| [Software Engineering](https://www.aminer.cn/mostinfluentialscholar/software) | International Conference on Software Engineering             |
+| [Computer Networking](https://www.aminer.cn/mostinfluentialscholar/networking) | ACM Conference on Special Interest Group on Data Communication |
+| [Natural Language Processing](https://www.aminer.cn/mostinfluentialscholar/nlp) | Annual Meeting of the Association for Computational Linguistics |
+| [Human-Computer Interaction](https://www.aminer.cn/mostinfluentialscholar/hci) | ACM CHI Conference on Human Factors in Computing Systems     |
+| [Computer Graphics](https://www.aminer.cn/mostinfluentialscholar/graphics) | International Conference and Exhibition on Computer Graphics and Interactive Techniques |
+| [Computer Vision](https://www.aminer.cn/mostinfluentialscholar/cv) | IEEE Conference on Computer Vision and Pattern Recognition<br/>IEEE International Conference on Computer Vision |
+| [Web and Information Retrieval](https://www.aminer.cn/mostinfluentialscholar/webir) | International World Wide Web Conference<br/>International ACM SIGIR Conference on Research and Development in Information Retrieval |
+
   
   
   
