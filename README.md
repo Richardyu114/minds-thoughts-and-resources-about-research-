@@ -479,6 +479,8 @@ Sam Roweis是个非常有想法的学者，这门课的PPT写的很不错，看�
 | [Computer Vision](https://www.aminer.cn/mostinfluentialscholar/cv) | IEEE Conference on Computer Vision and Pattern Recognition<br/>IEEE International Conference on Computer Vision |
 | [Web and Information Retrieval](https://www.aminer.cn/mostinfluentialscholar/webir) | International World Wide Web Conference<br/>International ACM SIGIR Conference on Research and Development in Information Retrieval |
 
-  
+## *2019.2.23*
+
+### *<u>1. 新书：可解释机器学习，帮助读者更好的理解机器学习的内在模型。[Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/) </u>*
   
   
