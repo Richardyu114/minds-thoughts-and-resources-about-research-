@@ -512,8 +512,36 @@ Sam Roweis是个非常有想法的学者，这门课的PPT写的很不错，看�
 [[SRCNN](https://medium.com/coinmonks/review-srcnn-super-resolution-3cb3a4f67a7c)] [[FSRCNN](https://towardsdatascience.com/review-fsrcnn-super-resolution-80ca2ee14da4)] [[VDSR](https://towardsdatascience.com/review-vdsr-super-resolution-f8050d49362f)] [[ESPCN](https://medium.com/datadriveninvestor/review-espcn-real-time-sr-super-resolution-8dceca249350)] [[RED-Net](https://medium.com/datadriveninvestor/review-red-net-residual-encoder-decoder-network-denoising-super-resolution-cb6364ae161e)] [[DRCN](https://medium.com/datadriveninvestor/review-drcn-deeply-recursive-convolutional-network-super-resolution-f0a380f79b20)] [[DRRN](https://towardsdatascience.com/review-drrn-deep-recursive-residual-network-super-resolution-dca4a35ce994)] [[LapSRN & MS-LapSRN](https://towardsdatascience.com/review-lapsrn-ms-lapsrn-laplacian-pyramid-super-resolution-network-super-resolution-c5fe2b65f5e8)]
  
  
+ ## *2019.2.27*
  
+ ### *<u>1.[GSLAM](https://github.com/zdzhaoyong/GSLAM)</u>*
  
+ 一个SLAM框架的执行和评价平台，用来测试不同SLAM解决方案的差异。
  
+ ### *<u>2.2000-2018历年CVPR最佳论文[清单](https://mp.weixin.qq.com/s/4VpVguXgwE_Rj9m-vNpsIw)</u>*
  
+ 其中注意下:
  
+ - [2018].[Taskonomy: Disentangling Task Transfer Learning](http://taskonomy.stanford.edu/taskonomy_CVPR2018.pdf)
+论文研究了一个非常新颖的课题，那就是研究视觉任务之间的关系，根据得出的关系可以帮助在不同任务之间做迁移学习。该论文提出了「Taskonomy」——一种完全计算化的方法，可以量化计算大量任务之间的关系，从它们之间提出统一的结构，并把它作为迁移学习的模型。实验设置上，作者首先找来一组一共 26 个任务，当中包括了语义、 2D、2.5D、3D 任务，接着为任务列表里的这 26 个任务分别训练了 26 个任务专用神经网络。结果显示，这些迁移后的模型的表现已经和作为黄金标准的任务专用网络的表现差不多好。论文提供了一套计算和探测相关分类结构的工具，其中包括一个求解器，用户可以用它来为其用例设计有效的监督策略。
+
+- [2016]. [Deep Residual Learning for Image Recognition](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+在现有基础下，想要进一步训练更深层次的神经网络是非常困难的。我们提出了一种减轻网络训练负担的残差学习框架，这种网络比以前使用过的网络本质上层次更深。我们明确地将这层作为输入层相关的学习残差函数，而不是学习未知的函数。同时，我们提供了全面实验数据，这些数据证明残差网络更容易优化，并且可以从深度增加中大大提高精度。我们在 ImageNet 数据集用 152 层--比 VGG 网络深 8 倍的深度来评估残差网络，但它仍具有较低的复杂度。在 ImageNet 测试集中，这些残差网络整体达到了 3.57% 的误差。该结果在 2015 年大规模视觉识别挑战赛分类任务中赢得了第一。此外，我们还用了 100 到 1000 层深度分析了的 CIFAR-10。
+
+- [2015]. [DynamicFusion: Reconstruction and Tracking of Non-rigid Scenes in Real-Time](https://rse-lab.cs.washington.edu/papers/dynamic-fusion-cvpr-2015.pdf)
+作者提出第一个结合商用传感器对 RGBD 扫描结果进行捕获，该结果可实时重建非刚性变形场景的密集 SLAM 系统。被称作 DynamicFusion 的这种方法在重建场景几何的当儿，还能同时估算一个密集体积的 6D 运动场景，并将估算结果变成实时框架。与 KinectFusion 一样，该系统可以生成越来越多去噪、保留细节、结合多种测量的完整重建结果，并实时显示最新的模型。由于该方法无需基于任何模板或过往的场景模型，因此适用于大部分的移动物体和场景。
+
+- [2014]. [What Object Motion Reveals About Shape With Unknown BRDF and Lighting](https://cseweb.ucsd.edu/~ravir/differentialtheory.pdf)
+作者提出了一种理论，用于解决在未知远距离照明以及未知各向同性反射率下，运动物体的形状识别问题，无论是正交投影还是穿透投影。该理论对表面重建硬度增加了基本限制，与涉及的方法无关。在正交投影场景下，三个微分运动在不计 BRDF 和光照的情况下，可以产生一个将形状与图像导数联系起来的不变量。而在透视投影场景下，四个微分运动在面对未知的 BRDF 与光照情况，可以产生基于表面梯度的线性约束。此外，论文也介绍了通过不变量实现重建的拓扑类。
+
+最后，论文推导出一种可以将形状恢复硬度与场景复杂性联系起来的通用分层。从定性角度来说，该不变量分别是用于简单照明的均匀偏微分方程，以及用于复杂照明的非均匀方程。从数量角度来说，该框架表明需要更多的最小运动次数来处理更复杂场景的形状识别问题。关于先前假设亮度恒定的工作，无论是 Lambertian BRDF 还是已知定向光源，一律被被当作是分层的特殊情况。作者利用合成与真实数据进一步说明了重建方法可以如何更好地利用这些框架。
+
+- [2010] [Efficient Computation of Robust Low-Rank Matrix Approximations in the Presence of Missing Data using the L1 Norm](https://acvtech.files.wordpress.com/2010/06/robustl1_eriksson.pdf)
+低秩近似矩阵计算是许多计算机视觉应用中的基础操作。这类问题的主力解决方案一直是奇异值分解（Singular Value Decomposition）。一旦存在数据缺失和异常值，该方法将不再适用，遗憾的是，我们经常在实践中遇到这种情况。
+
+论文提出了一种计算矩阵的低秩分解法，一旦丢失数据时会主动最小化 L1 范数。该方法是 Wiberg 算法的代表——在 L2 规范下更具说服力的分解方法之一。通过利用线性程序的可区分性，可以对这种方法的基本思想进行扩展，进而包含 L1 问题。结果表明，现有的优化软件可以有效实现论文提出的算法。论文提供了令人信服、基于合成与现实数据的初步实验结果。
+
+- [2009] [Single Image Haze Removal Using Dark Channel Prior](http://www.jiansun.org/papers/Dehaze_CVPR2009.pdf)
+本文中提出了一个简单却有效、针对单个输入图像的暗通道去雾法。暗通道先验去雾法是一种户外去雾图像的统计方法，它主要基于一个关键的观察——室外无雾图像中的大多数局部斑块包含一些像素，这些像素的强度起码有一个颜色通道处于低状态。使用这种基于雾度成像模型的先验方法，我们可以直接估计图像的雾霾厚度，借此将图像恢复至高质量的无雾状态。各种模糊图像的去雾结果证明了论文所提出先验方法的成效。此外，我们可以通过该方法获得高质量的深度图。
+
+- 后面的也有几篇与SfM以及三维重建有关，但是难带较为久远，可以通过其他最新综述获得。
