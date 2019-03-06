@@ -567,3 +567,10 @@ Sam Roweis是个非常有想法的学者，这门课的PPT写的很不错，看�
 ### *<u>1. MIT的[6.S191](http://introtodeeplearning.com/)  </u>*
 
 理论与实践结合，可以作为项目做做。
+
+
+
+## *2019.3.6*
+
+### *<u>1. [基于SegNet和U-Net的遥感图像语义分割](https://www.cnblogs.com/skyfsm/p/8330882.html)</u>*
+一位比较厉害的[博主](https://www.cnblogs.com/skyfsm/)参加比赛一个开源项目分享，也是语义分割，对自己刚开始学习很有帮助。另外这个博主的文章也多看看，学习学习。
