@@ -581,3 +581,46 @@ Sam Roweis是个非常有想法的学者，这门课的PPT写的很不错，看�
 ### *<u>1. [saliency Maps](https://www.analyticsindiamag.com/what-are-saliency-maps-in-deep-learning/)显著图</u>*
 
 The model considers three features in an image, namely colours, intensity and orientations. These combinations are presented in the saliency map. 
+
+
+## *2019.3.14*
+
+### *<u>1. 语义SLAM（semantic SLAM）梳理</u>*
+
+- 语义信息和定位是相互扶助的，语义信息可以帮助定位，SLAM也能提高语义理解的水平。
+真正的semantic SLAM，语义信息是要能够帮助定位的，比如这篇：Probabilistic data association for semantic slam (ICRA'17)。用object detection的结果作为SLAM前端的输入，跟ORB之类的特征互补提高定位鲁棒性。优点很明显，这下SLAM不会因为你把床收拾了一下就啥都不认识了（视觉特征都变了，但床还是床）。难点是detection结果的data association最好能跟定位联合优化，但前者是个离散问题。这篇文章用EM算法，E步考虑所有可能的association，比较粗暴，但识别物体较少的时候还不错（论文实验里只识别椅子）
+
+- SLAM也能提升语义理解水平。前面提到的SemanticFusion和类似的工作里，融合了多个视角语义理解结果的3D地图，其中的语义标签准确率高于单帧图像得到的结果，这很容易理解。另外，通过在3D空间引入一些先验信息，比如用CRF对地图做一下diffusion，能进一步提升准确率。但CRF毕竟还是简单粗暴，如果设计更精细的滤波算法，尤其是能从真实数据中学习一些先验的话，应该效果还会更好。这方面的工作还没有。
+
+- 融合优化之后的结果如果反馈给图像语义理解算法做一下fine-tuning，那就是self-supervised learning了。这方面的工作也还没有。
+
+语义分割帮助SLAM提高定位精度，建立语义地图，也就是真正的semantic slam 。但是获取语义信息不只有语义分割这一种，还包括目标识别，物体检测和实例分割，所以下面我给出的论文不仅仅限于用语义分割获取语义信息。
+
+ 语义信息用于bundle adjustment
+（1）Joint Detection, Tracking and Mapping by Semantic Bundle Adjustment
+（2）Improving Constrained Bundle Adjustment Through Semantic Scene Labeling
+（3）Semantic segmentation–aided visual odometry for urban autonomous driving
+ 将语义信息用到优化公式里面
+
+
+ 语义信息用于定位
+ （1）Localization from semantic observations via the matrix permanent
+ （2）Probabilistic Data Association for Semantic SLAM
+ （3）Semantic Pose using Deep Networks Trained on Synthetic RGB-D
+ （4）X-View: Graph-Based Semantic Multi-View Localization
+ （5）Pop-up SLAM: Semantic Monocular Plane SLAM for Low-texture Environments
+  场景理解用于改善状态估计，尤其是在低纹理区域，是目前极少的开源语义SLAM方案之一
+  
+  三个开源的语义SLAM方案
+  (1)DA-RNN_Semantic Mapping with Data Associated [yuxng/DA-RNN](https://link.zhihu.com/?target=https%3A//github.com/yuxng/DA-RNN)
+  (2)SemanticFusion: Dense 3D Semantic Mapping with Convolutional Neural Networks[dysonroboticslab / SemanticFusion - Bitbucket](https://link.zhihu.com/?target=https%3A//bitbucket.org/dysonroboticslab/semanticfusion/overview)
+  (3) Pop-up SLAM: Semantic Monocular Plane SLAM[shichaoy/pop_up_image](https://link.zhihu.com/?target=https%3A//github.com/shichaoy/pop_up_image)
+
+
+ 
+ 
+ 
+ 
+ 
+
+
