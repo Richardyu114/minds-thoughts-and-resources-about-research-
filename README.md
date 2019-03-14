@@ -597,24 +597,37 @@ The model considers three features in an image, namely colours, intensity and or
 语义分割帮助SLAM提高定位精度，建立语义地图，也就是真正的semantic slam 。但是获取语义信息不只有语义分割这一种，还包括目标识别，物体检测和实例分割，所以下面我给出的论文不仅仅限于用语义分割获取语义信息。
 
  语义信息用于bundle adjustment
+ 
 （1）Joint Detection, Tracking and Mapping by Semantic Bundle Adjustment
+
 （2）Improving Constrained Bundle Adjustment Through Semantic Scene Labeling
+
 （3）Semantic segmentation–aided visual odometry for urban autonomous driving
+
  将语义信息用到优化公式里面
 
 
  语义信息用于定位
+ 
  （1）Localization from semantic observations via the matrix permanent
+ 
  （2）Probabilistic Data Association for Semantic SLAM
+ 
  （3）Semantic Pose using Deep Networks Trained on Synthetic RGB-D
+ 
  （4）X-View: Graph-Based Semantic Multi-View Localization
+ 
  （5）Pop-up SLAM: Semantic Monocular Plane SLAM for Low-texture Environments
+ 
   场景理解用于改善状态估计，尤其是在低纹理区域，是目前极少的开源语义SLAM方案之一
   
   三个开源的语义SLAM方案
+  
   (1)DA-RNN_Semantic Mapping with Data Associated [yuxng/DA-RNN](https://link.zhihu.com/?target=https%3A//github.com/yuxng/DA-RNN)
+  
   (2)SemanticFusion: Dense 3D Semantic Mapping with Convolutional Neural Networks[dysonroboticslab / SemanticFusion - Bitbucket](https://link.zhihu.com/?target=https%3A//bitbucket.org/dysonroboticslab/semanticfusion/overview)
-  (3) Pop-up SLAM: Semantic Monocular Plane SLAM[shichaoy/pop_up_image](https://link.zhihu.com/?target=https%3A//github.com/shichaoy/pop_up_image)
+  
+  (3) Pop-up SLAM: Semantic Monocular Plane SLAM[shichaoy/pop_up_image](https://github.com/shichaoy/pop_up_image)
 
 
  
