@@ -630,10 +630,51 @@ The model considers three features in an image, namely colours, intensity and or
   (3) Pop-up SLAM: Semantic Monocular Plane SLAM[shichaoy/pop_up_image](https://github.com/shichaoy/pop_up_image)
 
 
+### *<u>2. 高翔关于语义SLAM的一些[看法](https://mp.weixin.qq.com/s/ayL4TUSkqI57Sg_4xKlCoQ)</u>*
+
+语义SLAM出现的动机的一大部分原因视觉地图的作用没发挥上来，大家都着眼于提高定位的精度，地图的构建，重利用上存在很大的问题。正如高翔所说的“语义SLAM的概念很模糊。你会找到许多带着『Semantic』字眼，实际上完全不在说同一件事情的论文。比如从**图像到Pose端到端的VO、从分割结果建标记点云、场景识别、CNN提特征、CNN做回环、带语义标记误差的BA**，等等，都可以叫语义SLAM。但是从实用层面考虑，我觉得最关键的一点是：**用神经网络帮助SLAM提路标**”...
+
+“所以『把物体建出来当地图路标』其实是一个不错的思路。**剩下的就是看物体有多少类，能不能支持到大多数常见的物体**。就自动驾驶来说，有了车道线，你至少就能知道自己在第几根车道线之间。有了车道线地图，就能知道自己在地图上哪两根车道线之间。类别再丰富一些，能用来定位的东西就更多，覆盖范围也就更宽。这个算是语义SLAM和传统SLAM中最不同的地方了。”
  
+ ### *<u>3. [技术刘](http://www.liuxiao.org/)总结的Semantic SLAM的几篇重点文章</u>*
  
+ 1. 《Probabilistic Data Association for Semantic SLAM》 ICRA 2017
  
+语义 SLAM 中的概率数据融合，感觉应该算开山鼻祖的一篇了。这篇也获得了 ICRA 2017 年的 Best Paper，可见工作是比较早有创新性的。文章中引入了 EM 估计来把语义 SLAM 转换成概率问题，优化目标仍然是熟悉的重投影误差。这篇文章只用了 DPM 这种传统方法做检测没有用流行的深度学习的检测网络依然取得了一定的效果。当然其文章中有很多比较强的假设，比如物体的三维中心投影过来应该是接近检测网络的中心，这一假设实际中并不容易满足。不过依然不能掩盖其在数学上开创性的思想。
+
+[文章](http://www.liuxiao.org/wp-content/uploads/2018/08/Probabilistic-Data-Association-for-Semantic-SLAM.pdf)
+
+2. 《VSO: Visual Semantic Odometry》 ECCV 2018
  
- 
+既然检测可以融合，把分割结果融合当然是再自然不过的想法，而且直观看来分割有更加细粒度的对物体的划分对于 SLAM 这种需要精确几何约束的问题是更加合适的。ETH 的这篇文章紧随其后投到了今年的 ECCV 2018。这篇文章依然使用 EM 估计，在上一篇的基础上使用距离变换将分割结果的边缘作为约束，同时依然利用投影误差构造约束条件。在 ORB SLAM2 和 PhotoBundle 上做了验证取得了一定效果。这篇文章引入距离变换的思路比较直观，很多人可能都能想到，不过能够做 work 以及做了很多细节上的尝试，依然是非常不容易的。但仍然存在一个问题是，分割的边缘并不代表是物体几何上的边缘，不同的视角这一分割边缘也是不停变化的，因此这一假设也不是非常合理。
+
+[文章](http://www.liuxiao.org/wp-content/uploads/2018/08/VSO-Visual-Semantic-Odometry.pdf)
+
+3. 《Stereo Vision-based Semantic 3D Object and Ego-motion Tracking for Autonomous Driving》 ECCV 2018
+
+港科大沈邵劼老师团队的最新文章，他们的 VINS 在 VIO 领域具有很不错的开创性成果。现在他们切入自动驾驶领域做了这篇双目语义3D物体跟踪的工作，效果还是很不错的。在沈老师看来，SLAM 是一个多传感器融合的框架，RGB、激光、语义、IMU、码盘等等都是不同的观测，所以只要是解决关于定位的问题，SLAM 的框架都是一样适用的。在这篇文章中，他们将不同物体看成不同的 Map，一边重建一边跟踪。使用的跟踪方法仍然是传统的 Local Feature，而 VIO 作为世界坐标系的运动估计。语义融合方面，他们构造了4个优化项：feature reprojection error, object size prior, motion residual, bounding box reprojection error，最终取得了不错的效果。
+
+[文章](http://www.liuxiao.org/wp-content/uploads/2018/08/Stereo-Vision-based-Semantic-3D-Object-and-Ego-motion-Tracking-for-Autonomous-Driving.pdf)
+[视频](https://www.youtube.com/watch?v=5_tXtanePdQ)
 
 
+4. 《Long-term Visual Localization using Semantically Segmented Images》ICRA 2018
+
+这篇论文讲得比较有意思，它不是一个完整的SLAM系统，不能解决Mapping的问题。它解决的问题是，当我已经有了一个很好的3D地图后，我用这个地图怎么来定位。在传统方法中，我们的定位也是基于特征匹配的，要么匹配 Local Feature 要么匹配线、边等等几何特征。而我们看人在定位时的思维，其实人看不到这么细节的特征的，通常人是从物体级别去定位，比如我的位置东边是某某大楼，西边有个学校，前边有个公交车，我自己在公交站牌的旁边这种方式。当你把你的位置这样描述出来的时候，如果我自己知道你说的这些东西在地图上的位置，我就可以基本确定你在什么地方了。这篇文章就有一点这种意思在里边，不过它用的观测结果是分割，用的定位方法是粒子滤波。它的地图是三维点云和点云上每个点的物体分类。利用这样语义级别的约束，它仍然达到了很好的定位效果。可想而知这样的方法有一定的优点，比如语义比局部特征稳定等；当然也有缺点，你的观测中的语义信息要比较丰富，如果场景中你只能偶尔分割出一两个物体，那是没有办法work的。
+
+[文章](http://www.liuxiao.org/wp-content/uploads/2018/08/Long-term-Visual-Localization-using-Semantically-Segmented-Images.pdf)
+[演示](https://www.youtube.com/watch?v=M55qTuoUPw0)
+ 
+ 
+ ### *<u>3. 一些有关SLAM的work的slides</u>*
+ 
+ 1. RSS 2015 [Setting future goals and indicators of progress for SLAM](http://ylatif.github.io/movingsensors/)
+ 
+ 2. ICCV 2015 [The Future of Real-Time SLAM: 18th December 2015 (ICCV Workshop)](http://wp.doc.ic.ac.uk/thefutureofslam/programme/)
+ 
+    [a related Blog](The Future of Real-Time SLAM and Deep Learning vs SLAM)
+    
+ 3. ICRA 2017 [First International Workshop on Event-based Vision](http://rpg.ifi.uzh.ch/ICRA17_event_vision_workshop.html)
+ 
+ 4. ECCV 2018 [Visual Localization Feature-based vs. Learned Approaches](https://sites.google.com/view/visual-localization-eccv-2018/home)
+ 
