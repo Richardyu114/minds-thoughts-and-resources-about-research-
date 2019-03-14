@@ -672,7 +672,7 @@ The model considers three features in an image, namely colours, intensity and or
  
  2. ICCV 2015 [The Future of Real-Time SLAM: 18th December 2015 (ICCV Workshop)](http://wp.doc.ic.ac.uk/thefutureofslam/programme/)
  
-    [a related Blog](The Future of Real-Time SLAM and Deep Learning vs SLAM)
+    [a related Blog](http://www.computervisionblog.com/2016/01/why-slam-matters-future-of-real-time.html)
     
  3. ICRA 2017 [First International Workshop on Event-based Vision](http://rpg.ifi.uzh.ch/ICRA17_event_vision_workshop.html)
  
