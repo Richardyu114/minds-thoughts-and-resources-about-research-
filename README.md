@@ -682,5 +682,5 @@ The model considers three features in an image, namely colours, intensity and or
 
 ## *2019.3.20*
 
-### <u>1.一位再谷歌大脑工作的人博客[Free Mind](http://freemind.pluskid.org/)  </u>*
+### *<u>1.一位在谷歌大脑工作的人博客[Free Mind](http://freemind.pluskid.org/)  </u>*
 看他的简历是浙大竺可桢学院毕业的，之后再MIT CSAIL读的PhD,现在做的也是机器学习，算法，以及数学，脑神经等相关的，同时也看出热爱文学，绘画和艺术，值得学习借鉴。
