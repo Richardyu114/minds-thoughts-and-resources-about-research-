@@ -684,3 +684,27 @@ The model considers three features in an image, namely colours, intensity and or
 
 ### *<u>1.一位在谷歌大脑工作的人博客[Free Mind](http://freemind.pluskid.org/)  </u>*
 看他的简历是浙大竺可桢学院毕业的，之后再MIT CSAIL读的PhD,现在做的也是机器学习，算法，以及数学，脑神经等相关的，同时也看出热爱文学，绘画和艺术，值得学习借鉴。
+
+
+## *2019.3.22*
+
+### *<u>1. 计算机视觉比较有名的和自己感兴趣的教授 </u>*
+[网站列表](http://peipa.essex.ac.uk/info/groups.html)
+
+1.[stanford vision and learning lab](http://svl.stanford.edu/)
+
+2.[Douglas Lanman](http://alumni.media.mit.edu/~dlanman/index.html)做结构光和虚拟现实技术等
+
+3.[UCLA朱松纯](http://www.stat.ucla.edu/~sczhu/)
+
+4.[Berkeley CV Group](https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/) Reconstruction方向
+
+5.[USC南加州大学 CV Lab](http://www-bcf.usc.edu/~nevatia/index.html) 3D Geometry
+
+6.[Oxford VGG](http://www.robots.ox.ac.uk/~vgg/) 最终的梦想
+
+7.[港中大王晓刚](http://www.ee.cuhk.edu.hk/~xgwang/)有点东西
+
+8.[Kristen Grauman 德克萨斯大学奥斯汀分校](http://www.cs.utexas.edu/~grauman/)
+
+more info[1](https://blog.csdn.net/tercel_zhang/article/details/62883805)[2](https://www.jianshu.com/p/9e08b6fa7a13)
