@@ -708,3 +708,12 @@ The model considers three features in an image, namely colours, intensity and or
 8.[Kristen Grauman 德克萨斯大学奥斯汀分校](http://www.cs.utexas.edu/~grauman/)
 
 more info[1](https://blog.csdn.net/tercel_zhang/article/details/62883805)[2](https://www.jianshu.com/p/9e08b6fa7a13)
+
+
+## *2019.4.3*
+
+### *<u>1. facebook和华盛顿大学联合的AR新[研究](https://grail.cs.washington.edu/projects/wakeup/)</u>*
+
+仅仅利用单张图像就可以进行3D姿态重建，使用了Mask-RCNN,骨架结构，还可以让用户修改人物姿态，效果不错。
+
+看这篇博客的[技术解释](http://nooverfit.com/wp/ar%E7%89%88%E7%A5%9E%E7%AC%94%E9%A9%AC%E8%89%AF%EF%BC%9A%E4%BB%8E%E5%8D%95%E5%BC%A02d%E5%9B%BE%E7%89%87%E5%BB%BA%E7%AB%8B3d%E4%BA%BA%E7%89%A9%E8%BF%90%E5%8A%A8%E6%A8%A1%E5%9E%8B/#more-5683)
