@@ -568,6 +568,8 @@ Sam Roweis是个非常有想法的学者，这门课的PPT写的很不错，看�
 
 理论与实践结合，可以作为项目做做。
 
+![结构框架](https://github.com/Richardyu114/minds-thoghts-and-resources-about-research-/blob/master/images/facebook_AR_3D_SPHOTo.PNG)
+
 
 
 ## *2019.3.6*
