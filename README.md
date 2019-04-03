@@ -568,7 +568,6 @@ Sam Roweis是个非常有想法的学者，这门课的PPT写的很不错，看�
 
 理论与实践结合，可以作为项目做做。
 
-![结构框架](https://github.com/Richardyu114/minds-thoghts-and-resources-about-research-/blob/master/images/facebook_AR_3D_SPHOTo.PNG)
 
 
 
@@ -738,7 +737,7 @@ more info[1](https://blog.csdn.net/tercel_zhang/article/details/62883805)[2](htt
 - [SLAM的动态地图和语义问题 （下）](https://zhuanlan.zhihu.com/p/58213848)
 
 
-### *<u> 3.[Computer Vision: Algorithms and Applications](http://szeliski.org/Book/)</u>*
+### *<u> 4.[Computer Vision: Algorithms and Applications](http://szeliski.org/Book/)</u>*
 
 CMU的计算摄影学，其中提到了这个教材，这个教材非常经典，以后有时间挑出来看看吧
 
