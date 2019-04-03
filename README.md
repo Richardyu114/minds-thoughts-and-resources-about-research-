@@ -725,3 +725,14 @@ more info[1](https://blog.csdn.net/tercel_zhang/article/details/62883805)[2](htt
 ### *<u>2. 计算机视觉的3R </u>*
 
 伯克利的大牛Malik最近讲的，计算机视觉包括三个领域（R3），Recognition，Reconstruction & Reorganization。识别和检测只能是第一个R，SLAM算第二个R。图像处理一般算计算机视觉的底层（low level）处理，而增强现实（AR），IBR，计算摄影（computational photography）是计算机视觉和其他领域如图形学，VR，成像学的交集。
+
+
+### *<u>3. 自动驾驶，计算机视觉科学家黄浴在知乎专栏写的一系列博客，综述性很强，值得反复看看</u>*
+
+- [单目视觉深度估计测距的前生今世](https://zhuanlan.zhihu.com/p/56263560)
+
+-[自动/自主泊车技术简介](https://zhuanlan.zhihu.com/p/56236181)
+
+-[SLAM的动态地图和语义问题 （上）](https://zhuanlan.zhihu.com/p/58213757)
+
+-[SLAM的动态地图和语义问题 （下）](https://zhuanlan.zhihu.com/p/58213848)
