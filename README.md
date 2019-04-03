@@ -736,3 +736,10 @@ more info[1](https://blog.csdn.net/tercel_zhang/article/details/62883805)[2](htt
 - [SLAM的动态地图和语义问题 （上）](https://zhuanlan.zhihu.com/p/58213757)
 
 - [SLAM的动态地图和语义问题 （下）](https://zhuanlan.zhihu.com/p/58213848)
+
+
+### *<u> 3.[Computer Vision: Algorithms and Applications](http://szeliski.org/Book/)</u>*
+
+CMU的计算摄影学，其中提到了这个教材，这个教材非常经典，以后有时间挑出来看看吧
+
+[Computational Photography, Fall 2017](http://graphics.cs.cmu.edu/courses/15-463/2017_fall/)
