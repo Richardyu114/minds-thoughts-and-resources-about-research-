@@ -722,3 +722,6 @@ more info[1](https://blog.csdn.net/tercel_zhang/article/details/62883805)[2](htt
 
 ![structure](https://github.com/Richardyu114/minds-thoghts-and-resources-about-research-/blob/master/images/facebook_AR_3D_SPHOTo.PNG)
 
+### *<u>2. 计算机视觉的3R </u>*
+
+伯克利的大牛Malik最近讲的，计算机视觉包括三个领域（R3），Recognition，Reconstruction & Reorganization。识别和检测只能是第一个R，SLAM算第二个R。图像处理一般算计算机视觉的底层（low level）处理，而增强现实（AR），IBR，计算摄影（computational photography）是计算机视觉和其他领域如图形学，VR，成像学的交集。
