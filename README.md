@@ -742,3 +742,17 @@ more info[1](https://blog.csdn.net/tercel_zhang/article/details/62883805)[2](htt
 CMU的计算摄影学，其中提到了这个教材，这个教材非常经典，以后有时间挑出来看看吧
 
 [Computational Photography, Fall 2017](http://graphics.cs.cmu.edu/courses/15-463/2017_fall/)
+
+## *2019.4.16*
+
+### *<u>1. 视觉SLAM的面试准备过程以及经典的视觉SLAM算法梳理 </u>*
+
+- [SLAM求职经验帖](https://zhuanlan.zhihu.com/p/28565563)
+
+- [Visual SLAM算法笔记](https://blog.csdn.net/mulinb/article/details/53421864)
+
+- [Annotated Computer Vision Bibliography: Table of Contents](http://www.visionbib.com/bibliography/contents.html)
+
+- [CSE/EE486 Computer Vision I](http://www.cse.psu.edu/~rtc12/CSE486/)+[Multiple View Geometry](https://vision.in.tum.de/teaching/ss2019/mvg2019)
+
+- [TUM computer vision group teaching](https://vision.in.tum.de/teaching/ss2019?redirect=1)
