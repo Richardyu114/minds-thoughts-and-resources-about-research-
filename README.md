@@ -756,3 +756,44 @@ CMU的计算摄影学，其中提到了这个教材，这个教材非常经典�
 - [CSE/EE486 Computer Vision I](http://www.cse.psu.edu/~rtc12/CSE486/)+[Multiple View Geometry](https://vision.in.tum.de/teaching/ss2019/mvg2019)
 
 - [TUM computer vision group teaching](https://vision.in.tum.de/teaching/ss2019?redirect=1)
+
+
+## *2019.4.26*
+
+### *<u>2. 好资源积累  </u>*
+
+1.blog[The Future of Real-Time SLAM and Deep Learning vs SLAM](http://www.computervisionblog.com/2016/01/why-slam-matters-future-of-real-time.html)
+
+2.[一款矢量图制作工具](https://inkscape.org/)
+
+
+
+### *<u>2. 最近进行的学习-----紧急！！！     </u>*
+
+1.面试
+
+python：
+
+https://github.com/taizilongxu/interview_python
+
+机器学习深度学习：
+
+<https://github.com/scutan90/DeepLearning-500-questions>
+
+<https://github.com/imhuay/Algorithm_Interview_Notes-Chinese>
+
+<https://github.com/zeusees/HyperDL-Tutorial>
+
+
+
+2.学习：
+
+https://github.com/apachecn/AiLearning
+
+https://github.com/fengdu78/machine_learning_beginner
+
+https://github.com/datawhalechina/pumpkin-book
+
+https://github.com/trekhleb/homemade-machine-learning
+
+https://github.com/Avik-Jain/100-Days-Of-ML-Code
