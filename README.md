@@ -798,6 +798,8 @@ https://github.com/trekhleb/homemade-machine-learning
 
 https://github.com/Avik-Jain/100-Days-Of-ML-Code
 
+[Introduction to Neural Networks and Machine Learning]http://www.cs.toronto.edu/~tijmen/csc321/information.shtml
+
 谷歌的机器学习教程和练习
 
 
