@@ -818,3 +818,9 @@ https://github.com/Avik-Jain/100-Days-Of-ML-Code
 - 工具
 
 等等
+
+### *<u>2. 资源 </u>*
+
+1.[Visualizing and Animating Optimization Algorithms with Matplotlib](http://louistiao.me/notes/visualizing-and-animating-optimization-algorithms-with-matplotlib/)
+
+2.[Save Matplotlib Animations as GIFs](http://louistiao.me/posts/notebooks/save-matplotlib-animations-as-gifs/)
