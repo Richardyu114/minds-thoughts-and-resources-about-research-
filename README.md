@@ -824,3 +824,7 @@ https://github.com/Avik-Jain/100-Days-Of-ML-Code
 1.[Visualizing and Animating Optimization Algorithms with Matplotlib](http://louistiao.me/notes/visualizing-and-animating-optimization-algorithms-with-matplotlib/)
 
 2.[Save Matplotlib Animations as GIFs](http://louistiao.me/posts/notebooks/save-matplotlib-animations-as-gifs/)
+
+3.UCB 2门课程
+ - [Stat212b: Topics Course on Deep Learning](http://joanbruna.github.io/stat212b/)
+ - [CS294: Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/)
