@@ -762,7 +762,7 @@ CMU的计算摄影学，其中提到了这个教材，这个教材非常经典�
 
 ### *<u>2. 好资源积累  </u>*
 
-1.blog[The Future of Real-Time SLAM and Deep Learning vs SLAM](http://www.computervisionblog.com/2016/01/why-slam-matters-future-of-real-time.html)
+1.[blog:The Future of Real-Time SLAM and Deep Learning vs SLAM](http://www.computervisionblog.com/2016/01/why-slam-matters-future-of-real-time.html)
 
 2.[一款矢量图制作工具](https://inkscape.org/)
 
@@ -798,7 +798,7 @@ https://github.com/trekhleb/homemade-machine-learning
 
 https://github.com/Avik-Jain/100-Days-Of-ML-Code
 
-[Introduction to Neural Networks and Machine Learning]http://www.cs.toronto.edu/~tijmen/csc321/information.shtml
+[Introduction to Neural Networks and Machine Learning](http://www.cs.toronto.edu/~tijmen/csc321/information.shtml)
 
 谷歌的机器学习教程和练习
 
