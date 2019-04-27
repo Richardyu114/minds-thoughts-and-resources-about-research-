@@ -797,3 +797,22 @@ https://github.com/datawhalechina/pumpkin-book
 https://github.com/trekhleb/homemade-machine-learning
 
 https://github.com/Avik-Jain/100-Days-Of-ML-Code
+
+谷歌的机器学习教程和练习
+
+
+## *2019.4.27*
+
+### *<u>1. 前阿里工作人员撰写的AI[算法笔记](http://www.huaxiaozhuan.com/)  </u>*
+
+内容包含：
+
+- 数学基础
+
+- 统计学习
+
+- 深度学习
+
+- 工具
+
+等等
