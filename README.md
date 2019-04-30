@@ -828,3 +828,11 @@ https://github.com/Avik-Jain/100-Days-Of-ML-Code
 3.UCB 2门课程
  - [Stat212b: Topics Course on Deep Learning](http://joanbruna.github.io/stat212b/)
  - [CS294: Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/)
+ 
+ 
+ ## *2019.4.30*
+ 
+ ### *<u>1. 资源  </u>*
+ 
+ - [博客：三维语义分割概述及方法总结--基本是针对三维点云的，而且侧重介绍pointnet/pointnet++ 等网络](https://blog.csdn.net/renhaofan/article/details/84025603)
+ 
