@@ -838,5 +838,5 @@ https://github.com/Avik-Jain/100-Days-Of-ML-Code
  
  - [a female DR, Passionate about NLP, ML and Data Analytics](http://nooverfit.com/wp/)
  
- -[一个博客，关注机器学习，AI，模式识别 , 数据挖掘 , 云计算](http://nooverfit.com/wp/)
+ - [一个博客，关注机器学习，AI，模式识别 , 数据挖掘 , 云计算](http://nooverfit.com/wp/)
  
