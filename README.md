@@ -836,3 +836,7 @@ https://github.com/Avik-Jain/100-Days-Of-ML-Code
  
  - [博客：三维语义分割概述及方法总结--基本是针对三维点云的，而且侧重介绍pointnet/pointnet++ 等网络](https://blog.csdn.net/renhaofan/article/details/84025603)
  
+ - [a female DR, Passionate about NLP, ML and Data Analytics](http://nooverfit.com/wp/)
+ 
+ -[一个博客，关注机器学习，AI，模式识别 , 数据挖掘 , 云计算](http://nooverfit.com/wp/)
+ 
