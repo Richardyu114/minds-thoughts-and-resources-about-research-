@@ -692,6 +692,9 @@ The model considers three features in an image, namely colours, intensity and or
 ### *<u>1. 计算机视觉比较有名的和自己感兴趣的教授 </u>*
 [网站列表](http://peipa.essex.ac.uk/info/groups.html)
 
+目前来看，就是robotics/visual slam/cv方向的结合，重点应该在slam，就是估计和建图，当然理解也是重心，因此教授方面，志同道合的而且调研发现品行很好的有：ICL-A.J.Davison（伦敦）, UCLA-朱松纯（洛杉矶），QUT-peter corke（昆士兰），Stanford-李飞飞（波士顿）...
+
+
 1.[stanford vision and learning lab](http://svl.stanford.edu/)
 
 2.[Douglas Lanman](http://alumni.media.mit.edu/~dlanman/index.html)做结构光和虚拟现实技术等
