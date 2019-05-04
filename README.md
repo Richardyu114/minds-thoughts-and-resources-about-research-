@@ -863,3 +863,5 @@ https://github.com/Avik-Jain/100-Days-Of-ML-Code
 9. StackGAN
 
 10. Generative Adversarial Networks
+
+ ### *<u>2. 关注一下[Microsoft machine teaching group](https://www.microsoft.com/en-us/research/group/machine-teaching-group/) </u>*
