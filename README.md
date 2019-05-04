@@ -840,3 +840,26 @@ https://github.com/Avik-Jain/100-Days-Of-ML-Code
  
  - [一个博客，关注机器学习，AI，模式识别 , 数据挖掘 , 云计算](http://nooverfit.com/wp/)
  
+ ## *2019.5.4*
+ 
+ ### *<u>1. [生成对抗网络GAN论文TOP 10](https://mp.weixin.qq.com/s/RhYVCO0jNlY97ptIUvRRQQ) </u>*
+ 
+1. DCGANs
+
+2. Improved Techniques for Training GANs
+
+3. Conditional GANs
+
+4. Progressively Growing GANs
+
+5. BigGAN
+
+6. StyleGAN
+
+7. CycleGAN
+
+8. Pix2Pix
+
+9. StackGAN
+
+10. Generative Adversarial Networks
