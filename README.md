@@ -868,3 +868,10 @@ https://github.com/Avik-Jain/100-Days-Of-ML-Code
 10. Generative Adversarial Networks
 
  ### *<u>2. 关注一下[Microsoft machine teaching group](https://www.microsoft.com/en-us/research/group/machine-teaching-group/) </u>*
+
+
+## *2019.5.11*
+
+### *<u>1.好资源收集 </u>*
+
+- [一个计算机视觉数据集整合网站](https://www.visualdata.io/)
