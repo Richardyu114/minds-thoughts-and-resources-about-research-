@@ -827,3 +827,5 @@ CMU的计算摄影学，其中提到了这个教材，这个教材非常经典�
 ### *<u>1.好资源收集 </u>*
 
 - [一个计算机视觉数据集整合网站](https://www.visualdata.io/)
+
+- David Abel,Brown大学的强化学习博士，其[blog](https://david-abel.github.io/blog/all_posts.html)上有一些关于强化学习的文章
