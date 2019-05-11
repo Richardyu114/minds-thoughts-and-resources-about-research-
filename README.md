@@ -76,19 +76,6 @@ PCA解释：<https://www.zhihu.com/question/41120789>
 
 
 
-## ***2018.12.6:***
-
-
-
-### *<u>1.线性代数两本：</u>*
-
-introduction to linear algebra —Gilbert Strang 先看
-
-linear algebra and its application —David C. Lay 后看
-
-<http://www.math.ucla.edu/~tao/resource/general/115a.3.02f/> 陶哲轩的讲义也可辅助
-
-
 
 ## ***2018.12.16.   2018.12.23***
 
@@ -769,41 +756,6 @@ CMU的计算摄影学，其中提到了这个教材，这个教材非常经典�
 
 2.[一款矢量图制作工具](https://inkscape.org/)
 
-
-
-### *<u>2. 最近进行的学习-----紧急！！！     </u>*
-
-1.面试
-
-python：
-
-https://github.com/taizilongxu/interview_python
-
-机器学习深度学习：
-
-<https://github.com/scutan90/DeepLearning-500-questions>
-
-<https://github.com/imhuay/Algorithm_Interview_Notes-Chinese>
-
-<https://github.com/zeusees/HyperDL-Tutorial>
-
-
-
-2.学习：
-
-https://github.com/apachecn/AiLearning
-
-https://github.com/fengdu78/machine_learning_beginner
-
-https://github.com/datawhalechina/pumpkin-book
-
-https://github.com/trekhleb/homemade-machine-learning
-
-https://github.com/Avik-Jain/100-Days-Of-ML-Code
-
-[Introduction to Neural Networks and Machine Learning](http://www.cs.toronto.edu/~tijmen/csc321/information.shtml)
-
-谷歌的机器学习教程和练习
 
 
 ## *2019.4.27*
