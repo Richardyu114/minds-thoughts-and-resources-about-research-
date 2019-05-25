@@ -700,6 +700,13 @@ The model considers three features in an image, namely colours, intensity and or
 
 more info[1](https://blog.csdn.net/tercel_zhang/article/details/62883805)[2](https://www.jianshu.com/p/9e08b6fa7a13)
 
+------
+
+new one [Lingqi Yan (闫令琪)](https://sites.cs.ucsb.edu/~lingqi/)，UCB毕业的有关计算机图形学的毕业博士生，主要包括physically-based / image-based rendering, real-time ray tracing and realistic appearance modeling / acquisition，目前在UC 圣巴巴拉分校做助理教授
+
+其毕业论文[Physically-based Modeling and Rendering of Complex Visual Appearance](https://sites.cs.ucsb.edu/~lingqi/publications/thesis_final.pdf)获得了2019 the Outstanding Doctoral Dissertation Award at SIGGRAPH
+
+
 
 ## *2019.4.3*
 
