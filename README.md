@@ -847,3 +847,33 @@ CMU的计算摄影学，其中提到了这个教材，这个教材非常经典�
 - PPT 资源链接：https://pan.baidu.com/s/1w_ucOJBou-Fi0Li7H_zaaw  提取码：oomy
 
 时长约六小时。内容涵盖相机标定、多视几何、structure-from-motion、SLAM 等方面
+
+
+## *2019.7.18*
+
+### *<u>1. 旷视南京研究院魏秀参开放的一个自动商品零售系统数据集  </u>*
+
+- [网址链接](https://rpc-dataset.github.io/)
+
+- 这个数据集做的还是比较规整的，在参加“蔚蓝竞赛”时，利用resnet101和faster rcnn进行一些调参就可以达到99%多的分类准确率和90%以上的检测准确率，实际上，这是一个类似于与工程结合比较紧密的数据集，其中的类别比较平衡，因此模型训练可能不是问题，数据清洗和特征工程的难度也不会很大，问题在于实时和新加商品类别的可扩展性（是否可以与弱监督CAM结合？)
+
+### *<u>2. CNN的特征图可视化，检查参数的噪声以及其他特征工程等，便于进一步了解CNN的学习机制 </u>*
+
+- [deep-visualization-toolbox](https://github.com/yosinski/deep-visualization-toolbox)
+
+- [How to visualize convolutional features in 40 lines of code](https://towardsdatascience.com/how-to-visualize-convolutional-features-in-40-lines-of-code-70b7d87b0030), [visualizing-cnn-feature-maps](https://github.com/fg91/visualizing-cnn-feature-maps)
+
+- [Visualizing and Understanding Convolutional Networks](https://arxiv.org/pdf/1311.2901.pdf)
+
+### *<u>3. 针对不平衡样本，小数量样本数据分类的一些tricks </u>*
+
+- [Focal Loss](https://arxiv.org/abs/1708.02002)，此方法感觉对分类效果并不是那么好，可能是处理方式不对，但是确实是有效的，但是假阳性的数量也不少，感觉比较吃数据和调参技巧
+
+- [SamplePairing on Small Dataset](https://jsideas.net/samplepairing/)，针对小样本数据的一种混合图片，不变标签的训练方式，感觉是在训练过程中时不时引入一些噪声，增强模型的测试泛化能力。此外还有一篇很类似的文章[mixup](https://arxiv.org/abs/1710.09412),facebook官方也提供了[source code](https://github.com/facebookresearch/mixup-cifar10),这个是图片融合，lable也融合的方式，同样也对泛化性能有一定的提升。本质上说这也是一种数据增强方式，并不是增加训练集，而是控制模型的复杂度，增强模型对某种变换的不变性。
+
+### *<u>4. CVPR2019感兴趣的workshop </u>*
+
+- [Andrew J. Davison主持的第二届SLAM workshop](http://rpg.ifi.uzh.ch/CVPR19_event_vision_workshop.html), 第一届是在ICRA2017新加坡举行的
+classic的vSLAM似乎热度下去了，除了ETH和TUM的大佬依然坚持外，基本上都在往DL上走了，另外就是Event Camera背景下的新算法框架，但是似乎传感器无法规模量产是个问题。
+
+- [Ross Girshick和何恺明大神组织的visual recognition tutorial ](http://feichtenhofer.github.io/cvpr2019-recognition-tutorial/)，主要讲了FAIR研究视觉检测的发展脉络和最新进展Mesh r-cnn
