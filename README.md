@@ -880,3 +880,14 @@ CMU的计算摄影学，其中提到了这个教材，这个教材非常经典�
 classic的vSLAM似乎热度下去了，除了ETH和TUM的大佬依然坚持外，基本上都在往DL上走了，另外就是Event Camera背景下的新算法框架，但是似乎传感器无法规模量产是个问题。
 
 - [Ross Girshick和何恺明大神组织的visual recognition tutorial ](http://feichtenhofer.github.io/cvpr2019-recognition-tutorial/)，主要讲了FAIR研究视觉检测的发展脉络和最新进展Mesh r-cnn
+
+
+## *2019.7.19*
+
+### *<u>1. 德国University of T¨ubingen和马普研究院联合做的污染图像目标检测实验和benchmark </u>*
+
+- 论文[Benchmarking Robustness in Object Detection:Autonomous Driving when Winter is Coming](https://arxiv.org/pdf/1907.07484v1.pdf)
+
+- [github地址](https://github.com/bethgelab)
+
+- backbone的结构如果深一点，抵抗污染的能力就会强点。此外他们利用风格迁移做了数据增强，发现检测结果也有不错的提升
