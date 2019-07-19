@@ -891,3 +891,11 @@ classic的vSLAM似乎热度下去了，除了ETH和TUM的大佬依然坚持外�
 - [github地址](https://github.com/bethgelab)
 
 - backbone的结构如果深一点，抵抗污染的能力就会强点。此外他们利用风格迁移做了数据增强，发现检测结果也有不错的提升
+
+### *<u>2.比利时鲁汶大学研究的神经网络层旋转对泛化结果的影响 </u>*
+
+- 论文[Layer rotation: a surprisingly powerful indicator ofgeneralization in deep networks?](https://arxiv.org/pdf/1806.01603v2.pdf)
+
+- [code](https://github.com/ispgroupucl/layer-rotation-paper-experiments)
+
+- 层旋转似乎并不影响模型学习哪些特征，而是影响在训练过程中这些特征被学习的程度
