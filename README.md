@@ -899,3 +899,9 @@ classic的vSLAM似乎热度下去了，除了ETH和TUM的大佬依然坚持外�
 - [code](https://github.com/ispgroupucl/layer-rotation-paper-experiments)
 
 - 层旋转似乎并不影响模型学习哪些特征，而是影响在训练过程中这些特征被学习的程度
+
+## *2019.7.22*
+
+### *<u>1. 一份比较全面的公开数据集总结</u>*
+
+[专栏地址](https://zhuanlan.zhihu.com/p/25138563)，内容涉及到医学图像，OCR图像，姿态估计等
