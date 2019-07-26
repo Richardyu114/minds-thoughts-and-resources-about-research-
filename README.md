@@ -905,3 +905,7 @@ classic的vSLAM似乎热度下去了，除了ETH和TUM的大佬依然坚持外�
 ### *<u>1. 一份比较全面的公开数据集总结</u>*
 
 [专栏地址](https://zhuanlan.zhihu.com/p/25138563)，内容涉及到医学图像，OCR图像，姿态估计等
+
+## *2019.7.26*
+
+### *<u>1.[use pandas to visualize the data](https://machinelearningmastery.com/visualize-machine-learning-data-python-pandas/) </u>* 
