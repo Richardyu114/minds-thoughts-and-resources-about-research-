@@ -909,3 +909,32 @@ classic的vSLAM似乎热度下去了，除了ETH和TUM的大佬依然坚持外�
 ## *2019.7.26*
 
 ### *<u>1.[use pandas to visualize the data](https://machinelearningmastery.com/visualize-machine-learning-data-python-pandas/) </u>* 
+
+
+## *2019.7.29*
+
+### *<u>1.宾大的一位教授写了针对CS的数学基础教材 </u>*
+
+书名为[Algebra, Topology, Differential Calculus, and Optimization Theory For Computer Science and Engineering](http://www.cis.upenn.edu/~jean/math-basics.pdf)
+
+主要涵盖内容为：
+
+1. 线性代数
+
+2. 仿射几何和射影几何
+
+3. 双线性形式的几何
+
+4. 几何：PID、UFD、诺特环、张量、PID 上的模块、规范形
+
+5. 拓扑和微分
+
+6. 最优化理论基础
+
+7. 线性优化
+
+8. 非线性优化
+
+9. 在机器学习中的应用
+
+10. 附录
