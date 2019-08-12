@@ -951,3 +951,7 @@ classic的vSLAM似乎热度下去了，除了ETH和TUM的大佬依然坚持外�
 
 - 数据集：
   - [highD dataset](https://www.highd-dataset.com/)
+
+- blog:
+  - [object detection](https://medium.com/nanonets/how-we-flew-a-drone-to-monitor-construction-projects-in-africa-using-deep-learning-b792f5c9c471)
+  - [person tracking](https://medium.com/nanonets/how-i-built-a-self-flying-drone-to-track-people-in-under-50-lines-of-code-7485de7f828e)
