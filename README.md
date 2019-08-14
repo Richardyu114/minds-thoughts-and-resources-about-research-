@@ -955,3 +955,15 @@ classic的vSLAM似乎热度下去了，除了ETH和TUM的大佬依然坚持外�
 - blog:
   - [object detection](https://medium.com/nanonets/how-we-flew-a-drone-to-monitor-construction-projects-in-africa-using-deep-learning-b792f5c9c471)
   - [person tracking](https://medium.com/nanonets/how-i-built-a-self-flying-drone-to-track-people-in-under-50-lines-of-code-7485de7f828e)
+
+## *2019.8.14*
+
+### *<u>1. 医学分割十项全能数据集</u>*
+
+- [homepage](http://medicaldecathlon.com/index.html)
+
+- 肝肿瘤，脑肿瘤，海马体，肺肿瘤，前列腺，心脏左心房，胰腺肿瘤，结肠癌，肝血管，脾
+
+- deepmind和nvidia赞助
+
+- 数据集下载方便，直接给出google drive链接
