@@ -967,3 +967,14 @@ classic的vSLAM似乎热度下去了，除了ETH和TUM的大佬依然坚持外�
 - deepmind和nvidia赞助
 
 - 数据集下载方便，直接给出google drive链接
+
+
+## *2019.8.23*
+
+### *<u>1. segmentation is all you need? </u>*
+
+湖南农业大学和牛津大学的一篇论文[segmentation is all you need](https://arxiv.org/pdf/1904.13300.pdf)探讨了利用框生成不精细得像素级标注（I,B,O三个形式），然后利用hourglass结构去直接检测物体，实验证明在密集型小物体，人脸检测方面效果不错，而且模型参数少，超参也少。但是这篇论文的易读性不是很好，尤其是在生成标注这一块没说清楚，模型架构也没什么创新，此外代码没开源，也无法检测在其他场景的检测效果。
+
+不过这也引出了目标检测的在出去anchor和NMS上的新方法。[blog](https://www.jishuwen.com/d/23xQ)
+
+
