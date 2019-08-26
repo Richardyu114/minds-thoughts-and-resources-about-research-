@@ -978,3 +978,9 @@ classic的vSLAM似乎热度下去了，除了ETH和TUM的大佬依然坚持外�
 不过这也引出了目标检测的在出去anchor和NMS上的新方法。[blog](https://www.jishuwen.com/d/23xQ)
 
 
+## *2019.8.26*
+
+### *<u>1. CRF条件随机场，HMM等之间的区别 </u>*
+
+知乎上[相关问题](https://www.zhihu.com/question/35866596)的回答里，[Scofield](http://www.scofield7419.xyz/)写得最为详细和深入，该作者博客里的一些旧文仍具有深度，值得一看
+
