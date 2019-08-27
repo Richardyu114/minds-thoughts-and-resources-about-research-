@@ -984,3 +984,12 @@ classic的vSLAM似乎热度下去了，除了ETH和TUM的大佬依然坚持外�
 
 知乎上[相关问题](https://www.zhihu.com/question/35866596)的回答里，[Scofield](http://www.scofield7419.xyz/)写得最为详细和深入，该作者博客里的一些旧文仍具有深度，值得一看
 
+
+## *2019.8.27*
+
+### *<u>1. weakly-supervised object segmentation papers   </u>*
+
+[知乎回答](https://www.zhihu.com/question/53263115)
+
+重点关注image-level上的语义分割
+
