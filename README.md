@@ -993,3 +993,45 @@ classic的vSLAM似乎热度下去了，除了ETH和TUM的大佬依然坚持外�
 
 重点关注image-level上的语义分割
 
+### *<u>2. CRF在场景分割 scene understanding方面的资源 </u>*
+
+> 首先是code，以前找了很多，但发现比较好用的有：
+
+
+> 1. Matlab版的UGM：http://www.di.ens.fr/~mschmidt/Software/UGM.html，作者法国的，写了很多实用的工具箱。
+
+
+
+> 2. C++版的gco-v3.0：http://vision.csd.uwo.ca/code/，用于求解crf，作者Olga Veksler，专门研究Graph cut算法。
+
+
+
+> 3. Oxford Brookes的ALE: http://cms.brookes.ac.uk/staff/PhilipTorr/ale.htm，作者Lubor Ladicky，写了5年写出来的一套程序，他在博士期间的所> 有工作几乎在这套代码里了，纯c++的，代码写得很规范，能学到不少c++编程的东西，没用opencv，需要耐心仔细地结合论文看才能看懂。
+
+
+
+> 4. ANU的Stephen Gould开发的c++库Darwin：http://drwn.anu.edu.au/，能在windows下用，但更适合linux，工具箱里的一些应用也包括了他博士时做的> 工作，仔细研究这个库可以学到不少先进的东西。
+
+
+
+>另外，如果要研究高阶的CRF，可以参见这三个人的主页：
+
+
+> 1. Pushmeet Kohli，这是个专家级的，2007年Oxford Brookes的Phd毕业，其间就研究这个，现在在MSRC：
+
+> http://research.microsoft.com/en-us/um/people/pkohli/
+
+
+
+> 2. Lubor Ladicky，继续了Kohli的工作，2011年Oxford Brookes的Phd毕业，现在Oxford，主要用CRF做场景理解：
+
+> http://www.robots.ox.ac.uk/~lubor/
+
+
+
+> 3. Stephen Gould，2010年Stanford的Phd毕业，现在ANU，也用高阶CRF做场景理解，还开发了一套工具箱（Darwin），比较适合在Linux下用。
+
+> http://users.cecs.anu.edu.au/~sgould/index.html
+
+
+>如果看了这3个人的Phd Thesis，基本上就对Higher Order CRF有比较清晰的认识了。
