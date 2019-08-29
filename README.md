@@ -1035,3 +1035,10 @@ classic的vSLAM似乎热度下去了，除了ETH和TUM的大佬依然坚持外�
 
 
 >如果看了这3个人的Phd Thesis，基本上就对Higher Order CRF有比较清晰的认识了。
+
+
+## *2019.8.29*
+
+### *<u>1. semantic segmentation papers and models </u>*
+
+一位武汉大学遥感专业长期更新的[blog](https://zhangbin0917.github.io/2018/09/18/Semantic-Segmentation/#more),list经典的是semantic segmentation papers.
