@@ -1046,4 +1046,9 @@ classic的vSLAM似乎热度下去了，除了ETH和TUM的大佬依然坚持外�
 
 ## *2019.9.1*
 
-### *<u> [cvpr 2018 tutorial on GANs](https://sites.google.com/view/cvpr2018tutorialongans/)     </u>*
+### *<u>1. [cvpr 2018 tutorial on GANs](https://sites.google.com/view/cvpr2018tutorialongans/)     </u>*
+
+
+### *<u>2. 视觉SLAM中的定位导航 vs end-to-end visual navigation （feifei li's group) </u>*
+
+李飞飞2019.8.24.的一篇论文[Situational Fusion of Visual Representation for Visual Navigation](https://arxiv.org/pdf/1908.09073.pdf)，还没细看，内容应该是利用end-to-end进行学习，然后根据视觉场景进行导航的，其实在这之前，李飞飞团队好像就已经发过类似的文章了，这个也是SLAM之外的一种解决方法。但是我觉得这两者的应用思路好像不一样，slam应该是教会robotics主动探索环境的，而后者可能是被动式的，根据人类的指令去进行的。。
