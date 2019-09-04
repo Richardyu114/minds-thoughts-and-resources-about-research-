@@ -695,9 +695,9 @@ The model considers three features in an image, namely colours, intensity and or
 
 5.[USC南加州大学 CV Lab](http://www-bcf.usc.edu/~nevatia/index.html) 3D Geometry
 
-6.[Oxford VGG](http://www.robots.ox.ac.uk/~vgg/) 最终的梦想
+6.[Oxford VGG](http://www.robots.ox.ac.uk/~vgg/) 
 
-7.[港中大王晓刚](http://www.ee.cuhk.edu.hk/~xgwang/)有点东西
+7.[港中大王晓刚](http://www.ee.cuhk.edu.hk/~xgwang/)
 
 8.[Kristen Grauman 德克萨斯大学奥斯汀分校](http://www.cs.utexas.edu/~grauman/)
 
