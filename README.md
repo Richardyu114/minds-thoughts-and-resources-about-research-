@@ -1052,3 +1052,10 @@ classic的vSLAM似乎热度下去了，除了ETH和TUM的大佬依然坚持外�
 ### *<u>2. 视觉SLAM中的定位导航 vs end-to-end visual navigation （feifei li's group) </u>*
 
 李飞飞2019.8.24.的一篇论文[Situational Fusion of Visual Representation for Visual Navigation](https://arxiv.org/pdf/1908.09073.pdf)，还没细看，内容应该是利用end-to-end进行学习，然后根据视觉场景进行导航的，其实在这之前，李飞飞团队好像就已经发过类似的文章了，这个也是SLAM之外的一种解决方法。但是我觉得这两者的应用思路好像不一样，slam应该是教会robotics主动探索环境的，而后者可能是被动式的，根据人类的指令去进行的。。
+
+
+## *2019.9.12*
+
+### *<u>1.一款用python编写的image操作可视化开源工具 </u>*
+
+[ImagePy](https://github.com/Image-Py/imagepy)是一款开源的图像处理可视化工具，支持边缘检测，分割，各种filter操作等
