@@ -1059,3 +1059,8 @@ classic的vSLAM似乎热度下去了，除了ETH和TUM的大佬依然坚持外�
 ### *<u>1.一款用python编写的image操作可视化开源工具 </u>*
 
 [ImagePy](https://github.com/Image-Py/imagepy)是一款开源的图像处理可视化工具，支持边缘检测，分割，各种filter操作等
+
+
+## *2019.9.29*
+
+### *<u>1.[handbook of graphical models](https://stat.ethz.ch/~maathuis/papers/Handbook.pdf) </u>*
