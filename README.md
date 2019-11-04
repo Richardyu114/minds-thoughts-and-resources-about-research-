@@ -1064,3 +1064,7 @@ classic的vSLAM似乎热度下去了，除了ETH和TUM的大佬依然坚持外�
 ## *2019.9.29*
 
 ### *<u>1.[handbook of graphical models](https://stat.ethz.ch/~maathuis/papers/Handbook.pdf) </u>*
+
+## *2019.11.14*
+
+## *<u>1.[cv+opencv+dl+IOT--8i-days-courses-tutorials](https://www.pyimagesearch.com/start-here/)
