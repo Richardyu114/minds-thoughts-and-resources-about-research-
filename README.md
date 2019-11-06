@@ -1072,3 +1072,6 @@ classic的vSLAM似乎热度下去了，除了ETH和TUM的大佬依然坚持外�
 ## *2019.11.6* 
 
 ### *<u>1.[What Do We Understand About Convolutional Networks?](https://arxiv.org/abs/1803.08834)  </u>*
+
+
+### *<u>2.[MIT CSAIL 6.819/6.869: Advances in Computer Vision](http://6.869.csail.mit.edu/fa18/index.html) </u>*
