@@ -1075,3 +1075,7 @@ classic的vSLAM似乎热度下去了，除了ETH和TUM的大佬依然坚持外�
 
 
 ### *<u>2.[MIT CSAIL 6.819/6.869: Advances in Computer Vision](http://6.869.csail.mit.edu/fa18/index.html) </u>*
+
+## *2019.11.8*
+
+## *<u>1.[旷视object365 dataset](http://www.objects365.org/overview.html) </u>*
