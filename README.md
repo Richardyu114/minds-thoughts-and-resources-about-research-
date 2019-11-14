@@ -1078,4 +1078,9 @@ classic的vSLAM似乎热度下去了，除了ETH和TUM的大佬依然坚持外�
 
 ## *2019.11.8*
 
-## *<u>1.[旷视object365 dataset](http://www.objects365.org/overview.html) </u>*
+### *<u>1.[旷视object365 dataset](http://www.objects365.org/overview.html) </u>*
+
+
+## *2019.11.14*
+
+### *<u>1. [DLNN书作者Michael Nielsen解释量子计算](https://quantum.country/qcvc) </u>*
