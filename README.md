@@ -1084,3 +1084,5 @@ classic的vSLAM似乎热度下去了，除了ETH和TUM的大佬依然坚持外�
 ## *2019.11.14*
 
 ### *<u>1. [DLNN书作者Michael Nielsen解释量子计算](https://quantum.country/qcvc) </u>*
+
+### *<u>2.[基于深度学习的三维重建](https://zhuanlan.zhihu.com/p/79628068)   </u>*
