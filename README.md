@@ -1086,3 +1086,12 @@ classic的vSLAM似乎热度下去了，除了ETH和TUM的大佬依然坚持外�
 ### *<u>1. [DLNN书作者Michael Nielsen解释量子计算](https://quantum.country/qcvc) </u>*
 
 ### *<u>2.[基于深度学习的三维重建](https://zhuanlan.zhihu.com/p/79628068)   </u>*
+
+
+## *2019.11.15*
+
+### *<u>1.[三位物理学家通过量子力学和陶喆轩发现了特征向量求解的新方法](https://www.quantamagazine.org/neutrinos-lead-to-unexpected-discovery-in-basic-math-20191113/) </u>*
+
+  - [Eigenvalues: the Rosetta Stone for Neutrino Oscillations in Matter](https://arxiv.org/abs/1907.02534)
+  
+  - [Eigenvectors from Eigenvalues](https://arxiv.org/abs/1908.03795)
