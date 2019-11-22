@@ -1095,3 +1095,9 @@ classic的vSLAM似乎热度下去了，除了ETH和TUM的大佬依然坚持外�
   - [Eigenvalues: the Rosetta Stone for Neutrino Oscillations in Matter](https://arxiv.org/abs/1907.02534)
   
   - [Eigenvectors from Eigenvalues](https://arxiv.org/abs/1908.03795)
+  
+  
+  ## *2019.11.23*
+  
+  ### *<u>1.[Facebook官方放出pytorch教学书籍](https://pytorch.org/deep-learning-with-pytorch-thank-you)  </u>*
+  
