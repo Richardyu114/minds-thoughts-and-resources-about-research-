@@ -1104,5 +1104,5 @@ classic的vSLAM似乎热度下去了，除了ETH和TUM的大佬依然坚持外�
   
 ## *2019.12.13*
 
-### *<u>1.[清华大学联合Intel推出的OpenLORIS-Scene Dataset，用于life-long SLAM评测](https://lifelong-robotic-vision.github.io/dataset/scene)
+### *<u>1.[清华大学联合Intel推出的OpenLORIS-Scene Dataset，用于life-long SLAM评测](https://lifelong-robotic-vision.github.io/dataset/scene) </u>*
 
