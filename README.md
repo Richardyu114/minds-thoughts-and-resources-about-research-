@@ -1106,3 +1106,7 @@ classic的vSLAM似乎热度下去了，除了ETH和TUM的大佬依然坚持外�
 
 ### *<u>1.[清华大学联合Intel推出的OpenLORIS-Scene Dataset，用于life-long SLAM评测](https://lifelong-robotic-vision.github.io/dataset/scene) </u>*
   - [download](https://shimo.im/docs/HhJj6XHYhdRQ6jjk/read)
+
+## *2020.1.6*
+
+### *<u>1.[taichi编程语言，计算机图形学一个集大成作](http://taichi.graphics/) </u>*
