@@ -847,7 +847,7 @@ CMU的计算摄影学，其中提到了这个教材，这个教材非常经典�
 
 - 视频链接：http://list.youku.com/albumlist/show/id_52188378.html
 
-- PPT 资源链接：https://pan.baidu.com/s/1w_ucOJBou-Fi0Li7H_zaaw  提取码：oomy
+- PPT 资源链接：  提取码：oomy
 
 时长约六小时。内容涵盖相机标定、多视几何、structure-from-motion、SLAM 等方面
 
@@ -1110,3 +1110,9 @@ classic的vSLAM似乎热度下去了，除了ETH和TUM的大佬依然坚持外�
 ## *2020.1.6*
 
 ### *<u>1.[taichi编程语言，计算机图形学一个集大成作](http://taichi.graphics/) </u>*
+
+## *2020.3.30*
+
+### *<u>1. [30 Influential AI Presentations from 2019](https://blog.re-work.co/30-pieces-of-influential-ai-research-in-2019/?utm_campaign=Your%20guide%20to%20AI&utm_medium=email&utm_source=Revue%20newsletter) </u>*
+
+### *<u>2. [A booklet on machine learning systems design with exercises](https://github.com/chiphuyen/machine-learning-systems-design) </u>*
