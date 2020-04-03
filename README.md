@@ -1121,3 +1121,5 @@ classic的vSLAM似乎热度下去了，除了ETH和TUM的大佬依然坚持外�
 ## *2020.4.3*
  
 ### *<u>1. 何恺明团队新论文探索无监督NAS[UnNAS](https://arxiv.org/pdf/2003.12056.pdf) </u>*
+
+### *<u>2.一个记录基于DL的计算机视觉相关领域SOTA论文推荐[repository](https://github.com/ahong007007/awesomeCV) </u>*
