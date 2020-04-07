@@ -1130,3 +1130,8 @@ classic的vSLAM似乎热度下去了，除了ETH和TUM的大佬依然坚持外�
 ## *2020.4.5*
 
 ### *<u>1. [SLAM in the era of deep learning](https://towardsdatascience.com/slam-in-the-era-of-deep-learning-e8a15e0d16f3), Mdeium上一个介绍SLAM领域的科普性文章，后续应该还有其他章节。作者[Yasir Latif](https://ylatif.github.io/)是SLAM著名综述文章'Past, Present, and Future of Simultaneous Localization And Mapping: Towards the Robust-Perception Age'的作者之一 </u>*
+
+
+## *2020.4.7*
+
+### *<u>1. [光城的C++那些事仓库](https://light-city.club/sc/)，适合面试者和学习者入坑C++和深入C++ </u>*
