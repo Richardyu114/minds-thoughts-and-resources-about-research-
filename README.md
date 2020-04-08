@@ -508,7 +508,7 @@ Sam Roweis是个非常有想法的学者，这门课的PPT写的很不错，看�
  
  一个SLAM框架的执行和评价平台，用来测试不同SLAM解决方案的差异。
  
- ### *<u>2.2000-2018历年CVPR最佳论文[清单](https://mp.weixin.qq.com/s/4VpVguXgwE_Rj9m-vNpsIw)</u>*
+ ### *<u>2.2009-2018历年CVPR最佳论文[清单](https://mp.weixin.qq.com/s/4VpVguXgwE_Rj9m-vNpsIw)</u>*
  
  其中注意下:
  
@@ -1135,3 +1135,8 @@ classic的vSLAM似乎热度下去了，除了ETH和TUM的大佬依然坚持外�
 ## *2020.4.7*
 
 ### *<u>1. [光城的C++那些事仓库](https://light-city.club/sc/)，适合面试者和学习者入坑C++和深入C++ </u>*
+
+
+## *2020.4.8*
+
+### *<u>1. 卡耐基梅隆，港中文，同济，MSAR联合发布大型visual SLAM数据集**TartanAir**，挑战SLAM系统极限。链接：[论文](https://arxiv.org/abs/2003.14338)和[数据集](http://theairlab.org/tartanair-dataset/) </u>*
