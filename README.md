@@ -1139,4 +1139,4 @@ classic的vSLAM似乎热度下去了，除了ETH和TUM的大佬依然坚持外�
 
 ## *2020.4.8*
 
-### *<u>1. 卡耐基梅隆，港中文，同济，MSAR联合发布大型visual SLAM数据集**TartanAir**，挑战SLAM系统极限。链接：[论文](https://arxiv.org/abs/2003.14338)和[数据集](http://theairlab.org/tartanair-dataset/) </u>*
+### *<u>1. 卡耐基梅隆，港中文，同济，Microsoft Research联合发布大型visual SLAM数据集**TartanAir**，挑战SLAM系统极限。链接：[论文](https://arxiv.org/abs/2003.14338)和[数据集](http://theairlab.org/tartanair-dataset/) </u>*
