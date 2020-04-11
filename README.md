@@ -1140,3 +1140,8 @@ classic的vSLAM似乎热度下去了，除了ETH和TUM的大佬依然坚持外�
 ## *2020.4.8*
 
 ### *<u>1. 卡耐基梅隆，港中文，同济，Microsoft Research联合发布大型visual SLAM数据集**TartanAir**，挑战SLAM系统极限。链接：[论文](https://arxiv.org/abs/2003.14338)和[数据集](http://theairlab.org/tartanair-dataset/) </u>*
+
+
+## *2020.4.11*
+
+### *<u>1. 某公众号推荐的[github 10 大开源项目](https://mp.weixin.qq.com/s?__biz=MzAxOTcxNTIwNQ==&mid=2457919113&idx=1&sn=e250d132d8f26c6b43b0c54b15c6893a&chksm=8cb6bb63bbc132759d27cf80de0259943889f82e92bc41ff9a1344e5b6ff1c8b2bbecba96fff&mpshare=1&scene=1&srcid=&sharer_sharetime=1586600523032&sharer_shareid=4ed82b8c86f7bdeb368019cfe429ee62&key=ee557f78985fb552fe66f61d62031c4e637f93d20b313e1e8f2feed95b7adff67b9aa5437b579411067107664da3d6095c807a929d83819412f863a145fb416ee6bc8a9d097d84f6af176952e6d5357b&ascene=1&uin=Mjg0MTMzNDQzMQ%3D%3D&devicetype=Windows+10&version=62080079&lang=zh_CN&exportkey=A%2BzjNE9tmA7OXQCnel0GLFc%3D&pass_ticket=YqB50I3ssI%2Bmb1g04rZ5DhbFql2Gi%2BxX5Yu1dHrsIcoA1yX92wPWsjdD8%2FOBATy4)，其中有学习资源，有面试经验，也有实用工具 </u>*
