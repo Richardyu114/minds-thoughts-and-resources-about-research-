@@ -1150,3 +1150,11 @@ classic的vSLAM似乎热度下去了，除了ETH和TUM的大佬依然坚持外�
 ## *2020.4.16*
  
 ### *<u>1. 阮一峰老师写的[Bash脚本教程](https://wangdoc.com/bash/index.html)  </u>*
+
+
+## *2020.4.17*
+
+### *<u>1. 两个小工具 </u>*
+
+- [markmap-lib](https://markmap.js.org/), 将markdown文件转成思维导图
+- [json gengrator](https://next.json-generator.com/), 在线制作json文件，目前似乎只支持JavaScript
