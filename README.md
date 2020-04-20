@@ -1158,3 +1158,9 @@ classic的vSLAM似乎热度下去了，除了ETH和TUM的大佬依然坚持外�
 
 - [markmap-lib](https://markmap.js.org/), 将markdown文件转成思维导图
 - [json gengrator](https://next.json-generator.com/), 在线制作json文件，目前似乎只支持JavaScript
+
+## *2020.4.20*
+
+### *<u>1. 牛津大学VGG Andrew Zisserman做的self-supervised learning [tutorial](https://project.inria.fr/paiss/files/2018/07/zisserman-self-supervised.pdf)  </u>*
+
+### *<u>2. Boston dynamic开源的spot机器人控制[SDK](https://github.com/boston-dynamics/spot-sdk) </u>*
