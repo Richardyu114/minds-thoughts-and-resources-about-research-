@@ -1164,3 +1164,8 @@ classic的vSLAM似乎热度下去了，除了ETH和TUM的大佬依然坚持外�
 ### *<u>1. 牛津大学VGG Andrew Zisserman做的self-supervised learning [tutorial](https://project.inria.fr/paiss/files/2018/07/zisserman-self-supervised.pdf)  </u>*
 
 ### *<u>2. Boston dynamic开源的spot机器人控制[SDK](https://github.com/boston-dynamics/spot-sdk) </u>*
+
+
+## *2020.4.23*
+
+### *<u>1. 奥迪公司release的自动驾驶公开[数据集](https://www.a2d2.audi/a2d2/en/download.html)，包括语义分割，3D boudning box和点云等，按照各种标签分开下载，总量2.3TB左右 </u>*
