@@ -1153,3 +1153,7 @@ classic的vSLAM似乎热度下去了，除了ETH和TUM的大佬依然坚持外�
 ### *<u>1. [made with ml](https://madewithml.com/topics/)，一个整合了机器学习相关算法，框架和领域tutorial的网站 </u>*
 
 ### *<u>2. SLAM, visual odometry评价工具包[evo](https://github.com/MichaelGrupp/evo)，计算机视觉life公众号[推荐](https://mp.weixin.qq.com/s?__biz=MzIxOTczOTM4NA==&mid=2247490912&idx=1&sn=4be48125b066fba48d0d4baea27059af&chksm=97d7f8f7a0a071e16b6a8897620d399ac03a4ba0cf844b4cca6906d4a026b2e45db12187bcd0&mpshare=1&scene=1&srcid=&sharer_sharetime=1587789063614&sharer_shareid=4ed82b8c86f7bdeb368019cfe429ee62&key=bb1d37e7a4261ac5b682a2b9c6bba90b8d169bbf1ac6c57d9a2cd971e628ed88cf630d4b4d2e4f743a808e50cea38b0be4d60c1bb1925f5c2de312cc09375130beb829b3499c2c7259b5780b3aeba29e&ascene=1&uin=Mjg0MTMzNDQzMQ%3D%3D&devicetype=Windows+10+x64&version=62090070&lang=zh_CN&exportkey=A5GGFIw8whN9LrkgY4ncd3o%3D&pass_ticket=bG0DHyTaa45UhuYa0%2F%2FvbF98EVuOsZo%2FFL4ARxuwIJ%2Btme65avhHZ9CeiT%2F3eP1G) </u>*
+
+## *2020.4.29*
+
+### *<u>1. [slam研究进展，学习资料，相关实验室等信息](https://github.com/wuxiaolang/Visual_SLAM_Related_Research) </u>*
