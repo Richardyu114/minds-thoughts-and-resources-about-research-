@@ -1159,3 +1159,7 @@ classic的vSLAM似乎热度下去了，除了ETH和TUM的大佬依然坚持外�
 ### *<u>1. [slam研究进展，学习资料，相关实验室等信息](https://github.com/wuxiaolang/Visual_SLAM_Related_Research) </u>*
 
 ### *<u>2. 代码自动补全插件[codota](https://www.codota.com/) </u>*
+
+## *2020.4.30*
+
+### *<u>1. 可在大数据读取等方面代替pandas的library [Dask](https://towardsdatascience.com/are-you-still-using-pandas-for-big-data-12788018ba1a)  </u>*
