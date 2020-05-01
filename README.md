@@ -1165,3 +1165,8 @@ classic的vSLAM似乎热度下去了，除了ETH和TUM的大佬依然坚持外�
 ### *<u>1. 可在大数据读取等方面代替pandas的library [Dask](https://towardsdatascience.com/are-you-still-using-pandas-for-big-data-12788018ba1a)  </u>*
 
 ### *<u>2. python代码函数执行进程监视器[py-spy](https://github.com/benfred/py-spy)，可在运行时在线监察，也可生成svg文件供结束查阅 </u>*
+
+
+## *2020.5.01*
+
+### *<u>1. 利用[awesome python](https://github.com/vinta/awesome-python)查询是否有可用的包可以调去帮助解决当下的问题  </u>*
