@@ -1179,3 +1179,8 @@ classic的vSLAM似乎热度下去了，除了ETH和TUM的大佬依然坚持外�
 ### *<u>1. 两个CNN可视化工具：[openAI-Micorscope](https://openai.com/blog/microscope/?utm_campaign=Your%20guide%20to%20AI&utm_medium=email&utm_source=Revue%20newsletter)和[CNN-Explainer](https://poloclub.github.io/cnn-explainer/) </u>*
 
 ### *<u>2. 开源机器学习代码的模板示例[template指导](https://github.com/paperswithcode/releasing-research-code) </u>*
+
+
+## *2020.5.19*
+
+### *<u>1. 一份可以交互使用的机器学习相关模型概念的模板图[ml-visuals](https://github.com/dair-ai/ml-visuals) </u>*
