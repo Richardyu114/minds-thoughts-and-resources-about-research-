@@ -1184,3 +1184,8 @@ classic的vSLAM似乎热度下去了，除了ETH和TUM的大佬依然坚持外�
 ## *2020.5.19*
 
 ### *<u>1. 一份可以交互使用的机器学习相关模型概念的模板图[ml-visuals](https://github.com/dair-ai/ml-visuals) </u>*
+
+
+## *2020.5.24*
+
+### *<u>1. 强化学习之父Richard S. Sutton的强化学习介绍书籍[第二版](http://incompleteideas.net/book/the-book-2nd.html)，python[代码](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)  </u>*
