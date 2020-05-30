@@ -1197,3 +1197,4 @@ classic的vSLAM似乎热度下去了，除了ETH和TUM的大佬依然坚持外�
 
 ### *<u>1. 绘制可视化NN的一些工具推荐，见[此](https://github.com/ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network) </u>*
   
+### *<u>2. 推荐沈向洋博士在5.14作的"you are how you read"论文阅读分享报告，[文字版](https://mp.weixin.qq.com/s/0ugTO36Za96tHD5mbROyJg)，[视频](https://www.bilibili.com/video/BV1df4y1m74k?from=search&seid=13916574119773067502)  </u>*
