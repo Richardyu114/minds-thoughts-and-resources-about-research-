@@ -1192,5 +1192,8 @@ classic的vSLAM似乎热度下去了，除了ETH和TUM的大佬依然坚持外�
 
 
 ### *<u>2. CCF整理的[未来5-10年计算机视觉发展趋势圆桌讨论](https://mp.weixin.qq.com/s/ZCULMForCTQTub-INlTprA)，其中提到了主动视觉，视频理解，三维视觉，多模态学习以及视觉认知等比较有意义和潜力的研究方向，值得一读  </u>*
-  
+
+## *2020.5.30*
+
+### *<u>1. 绘制可视化NN的一些工具推荐，见[此](https://github.com/ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network) </u>*
   
