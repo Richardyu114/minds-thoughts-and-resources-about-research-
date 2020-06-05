@@ -1203,3 +1203,8 @@ classic的vSLAM似乎热度下去了，除了ETH和TUM的大佬依然坚持外�
 ## *2020.6.03*
 
 ### *<u>1. 基本深度学习的医疗图像分析相关[资源](https://github.com/shawnyuen/DeepLearningInMedicalImagingAndMedicalImageAnalysis)，包括综述，数据集等  </u>* 
+
+
+## *2020.6.05*
+
+### *<u>1. [penrose](https://github.com/penrose/penrose)，一款可以将数学公式转换为图像的工具，“科学图表界的latex”，SIGGRAPH2020成果 </u>*
