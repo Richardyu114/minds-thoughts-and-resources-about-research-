@@ -1208,3 +1208,8 @@ classic的vSLAM似乎热度下去了，除了ETH和TUM的大佬依然坚持外�
 ## *2020.6.05*
 
 ### *<u>1. [penrose](https://github.com/penrose/penrose)，一款可以将数学公式转换为图像的工具，“科学图表界的latex”，SIGGRAPH2020成果 </u>*
+
+
+## *2020.6.08*
+
+### *<u>1. [pyslam](https://github.com/luigifreda/pyslam),  一个monocular Visual Odometry (VO) pipeline in Python, 支持多种local feature  </u>*
