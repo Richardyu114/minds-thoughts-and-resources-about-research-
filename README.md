@@ -1217,3 +1217,8 @@ classic的vSLAM似乎热度下去了，除了ETH和TUM的大佬依然坚持外�
 ## *2020.6.20*
 
 ### *<u>1. [dexplot](https://github.com/dexplo/dexplot/), 一款结合了matplotlib和dataframes的python图标制作库  </u>*
+
+
+## *2020.6.24*
+
+### *<u>1.[Horovod](https://github.com/horovod/horovod)，一款可支持PyTorch和TensorFlow的分布式训练第三方库，clean API </u>*
