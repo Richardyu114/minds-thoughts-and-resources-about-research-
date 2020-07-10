@@ -1232,3 +1232,8 @@ classic的vSLAM似乎热度下去了，除了ETH和TUM的大佬依然坚持外�
 ## *2020.7.5*
 
 ### *<u>1.约翰霍金斯大学一位PhD总结的数学书笔记[EssentialMath](https://github.com/yangyutu/EssentialMath)，内容主要与ML相关 </u>*
+
+
+## *2020.7.10*
+
+### *<u>1.  [CVPR2020-A Snapshot](https://yassouali.github.io/ml-blog/cvpr2020/)             </u>*
