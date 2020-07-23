@@ -1236,3 +1236,7 @@ classic的vSLAM似乎热度下去了，除了ETH和TUM的大佬依然坚持外�
 ## *2020.7.10*
 
 ### *<u>1.  [CVPR2020-A Snapshot](https://yassouali.github.io/ml-blog/cvpr2020/)             </u>*
+
+## *2020.7.23*
+
+### *<u>1. AAAI 2020一篇新的有关弱监督语义分割的文章[Reliability Does Matter: An End-to-End Weakly Supervised Semantic Segmentation Approach](https://arxiv.org/abs/1911.08039), [code](https://github.com/zbf1991/RRM). 大意上看不同于利用bounding box信息生成mask，而是利用分类网络的CAM去生成mask然后去监督segmentation </u>*
