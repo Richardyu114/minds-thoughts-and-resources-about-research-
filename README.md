@@ -1244,3 +1244,5 @@ classic的vSLAM似乎热度下去了，除了ETH和TUM的大佬依然坚持外�
 ## *2020.7.25*
 
 ### *<u>1. [ORB-SLAM3](https://arxiv.org/abs/2007.11898) 放出，新增了VIO融合和多地图使用，可以忍受快速移动和长时间室外移动，[code](https://github.com/UZ-SLAMLab/ORB_SLAM3) </u>*
+
+### *<u>2. [connectedpapers](https://www.connectedpapers.com/)，一款用图表形式展现最常用，最相似和最多引用的在线论文查找工具  </u>*
