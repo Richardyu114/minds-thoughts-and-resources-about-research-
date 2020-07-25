@@ -53,7 +53,7 @@ Neur**IPS 2018** 入选论文，目测应该是与**GAN**有关
 | k-means算法    |                           距离函数                           |
 | 贝叶斯网络     |                   条件概率，贝叶斯公式，图                   |
 | VC维           |                       Hoeffding不等式                        |
-【
+
 
 ## ***2018.12.16.   2018.12.23***
 
@@ -1240,3 +1240,7 @@ classic的vSLAM似乎热度下去了，除了ETH和TUM的大佬依然坚持外�
 ## *2020.7.23*
 
 ### *<u>1. AAAI 2020一篇新的有关弱监督语义分割的文章[Reliability Does Matter: An End-to-End Weakly Supervised Semantic Segmentation Approach](https://arxiv.org/abs/1911.08039), [code](https://github.com/zbf1991/RRM). 大意上看不同于利用bounding box信息生成mask，而是利用分类网络的CAM去生成mask然后去监督segmentation </u>*
+
+## *2020.7.25*
+
+### *<u>1. [ORB-SLAM3](https://arxiv.org/abs/2007.11898) 放出，新增了VIO融合和多地图使用，可以忍受快速移动和长时间室外移动，[code](https://github.com/UZ-SLAMLab/ORB_SLAM3) </u>*
