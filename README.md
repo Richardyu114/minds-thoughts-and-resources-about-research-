@@ -1252,3 +1252,7 @@ classic的vSLAM似乎热度下去了，除了ETH和TUM的大佬依然坚持外�
 ## *2020.8.5*
 
 ### *<u>1. 结合深度学习的视觉SLAM综述文章[A Survey on Deep Learning for Localization and Mapping: Towards the Age of Spatial Machine Intelligence](https://arxiv.org/abs/2006.12567), [计算机视觉life的推送翻译](https://mp.weixin.qq.com/s/wcCW1TGUMQgDr4AwQ24w4A) </u>*
+
+## *2020.8.7*
+
+### *<u>1. stackoverflow的C++高票问题汇总与中文翻译，[链接](https://github.com/EthsonLiu/stackoverflow-top-cpp/tree/master/question) </u>*
