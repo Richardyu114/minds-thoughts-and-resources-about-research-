@@ -1256,3 +1256,8 @@ classic的vSLAM似乎热度下去了，除了ETH和TUM的大佬依然坚持外�
 ## *2020.8.7*
 
 ### *<u>1. stackoverflow的C++高票问题汇总与中文翻译，[链接](https://github.com/EthsonLiu/stackoverflow-top-cpp/tree/master/question) </u>*
+
+
+## *2020.8.21*
+
+### *<u>1. [netron](https://github.com/lutzroeder/Netron),一款很方便的神经网络可视化软件，直接将模型放进软件即可可视化 </u>*
