@@ -1268,3 +1268,5 @@ classic的vSLAM似乎热度下去了，除了ETH和TUM的大佬依然坚持外�
 ### *<u>1. 利用神经网络玩马里奥游戏，具体指南见[此](https://chrispresso.github.io/AI_Learns_To_Play_SMB_Using_GA_And_NN) </u>*
 
 ### *<u>2. [a state-of-the-art survey on deep learning theory and architectures](https://www.researchgate.net/publication/331540139_A_State-of-the-Art_Survey_on_Deep_Learning_Theory_and_Architectures)，非常详尽的总结和资源整合survey </u>*
+
+### <u>3. [编写高质量代码改善 Python 程序的 91 个建议](https://l1nwatch.gitbook.io/writing_solid_python_code_gitbook/)  </u>*
