@@ -1265,4 +1265,4 @@ classic的vSLAM似乎热度下去了，除了ETH和TUM的大佬依然坚持外�
 
 ## *2020.8.28*
 
-### *<u>1. 利用神经网络万马里奥游戏，具体指南见[此](https://chrispresso.github.io/AI_Learns_To_Play_SMB_Using_GA_And_NN) </u>*
+### *<u>1. 利用神经网络玩马里奥游戏，具体指南见[此](https://chrispresso.github.io/AI_Learns_To_Play_SMB_Using_GA_And_NN) </u>*
