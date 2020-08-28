@@ -1261,3 +1261,8 @@ classic的vSLAM似乎热度下去了，除了ETH和TUM的大佬依然坚持外�
 ## *2020.8.21*
 
 ### *<u>1. [netron](https://github.com/lutzroeder/Netron),一款很方便的神经网络可视化软件，直接将模型放进软件即可可视化 </u>*
+
+
+## *2020.8.28*
+
+### *<u>1. 利用神经网络万马里奥游戏，具体指南见[此](https://chrispresso.github.io/AI_Learns_To_Play_SMB_Using_GA_And_NN) </u>*
