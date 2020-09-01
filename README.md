@@ -1270,3 +1270,8 @@ classic的vSLAM似乎热度下去了，除了ETH和TUM的大佬依然坚持外�
 ### *<u>2. [a state-of-the-art survey on deep learning theory and architectures](https://www.researchgate.net/publication/331540139_A_State-of-the-Art_Survey_on_Deep_Learning_Theory_and_Architectures)，非常详尽的总结和资源整合survey </u>*
 
 ### *<u>3. [编写高质量代码改善 Python 程序的 91 个建议](https://l1nwatch.gitbook.io/writing_solid_python_code_gitbook/) </u>*
+
+
+## *2020.9.1*
+
+### *<u>1. 利用mathpix API keys和[img2latex-mathpix](https://github.com/blaisewang/img2latex-mathpix)实现公式识别（任意系统截图工具，复制图片，在识别软件中按enter键即可），并转成latex,次数上要比单纯用mathpix snip客户端多 </u>*
