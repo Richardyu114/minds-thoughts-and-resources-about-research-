@@ -1275,3 +1275,15 @@ classic的vSLAM似乎热度下去了，除了ETH和TUM的大佬依然坚持外�
 ## *2020.9.1*
 
 ### *<u>1. 利用mathpix API keys和[img2latex-mathpix](https://github.com/blaisewang/img2latex-mathpix)实现公式识别（任意系统截图工具，复制图片，在识别软件中按enter键即可），并转成latex,次数上要比单纯用mathpix snip客户端多 </u>*
+
+
+## *2020.9.8*
+
+### *<u>1. 代码编写风格指南 </u>*
+
+- Google开源项目风格指南：[地址](https://zh-google-styleguide.readthedocs.io/en/latest/)，包含c++和python
+
+- python代码风格指南：[PEP 8 -- Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
+
+- 阿里巴巴Java开发手册：[地址](https://github.com/alibaba/p3c)
+
