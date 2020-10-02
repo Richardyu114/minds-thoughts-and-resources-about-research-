@@ -1291,3 +1291,7 @@ classic的vSLAM似乎热度下去了，除了ETH和TUM的大佬依然坚持外�
 ## *2020.9.11*
 
 ### *<u>1. 利用github记录个人笔记，[git-based-wiki](https://www.bit-101.com/blog/2020/09/git-based-wiki/) </u>*
+
+## *2020.10.02*
+
+### *<u>1.佐治亚理工助理教授Eric Gilbert写的读博指南，[地址](https://docs.google.com/document/d/11D3kHElzS2HQxTwPqcaTnU5HCJ8WGE5brTXI4KLf4dM/edit) </u>*
