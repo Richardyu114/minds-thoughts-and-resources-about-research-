@@ -1295,3 +1295,8 @@ classic的vSLAM似乎热度下去了，除了ETH和TUM的大佬依然坚持外�
 ## *2020.10.02*
 
 ### *<u>1.佐治亚理工助理教授Eric Gilbert写的读博指南，[地址](https://docs.google.com/document/d/11D3kHElzS2HQxTwPqcaTnU5HCJ8WGE5brTXI4KLf4dM/edit) </u>*
+
+
+## *2020.10.28*
+
+### *<u>1. 动态物体SLAM综述博客-[Monocular Dynamic Object SLAM in Autonomous Driving](https://towardsdatascience.com/monocular-dynamic-object-slam-in-autonomous-driving-f12249052bf1) </u>*
