@@ -1300,3 +1300,8 @@ classic的vSLAM似乎热度下去了，除了ETH和TUM的大佬依然坚持外�
 ## *2020.10.28*
 
 ### *<u>1. 动态物体SLAM综述博客-[Monocular Dynamic Object SLAM in Autonomous Driving](https://towardsdatascience.com/monocular-dynamic-object-slam-in-autonomous-driving-f12249052bf1) </u>*
+
+
+## *2020.11.9*
+
+### *<u>1. [mmdetection-mini](https://github.com/hhaAndroid/mmdetection-mini)，在mmdetection的基础上进行注释，简化，加了一些独有的功能，方便学习和自己使用，整体架构没有那么复杂 </u>*
