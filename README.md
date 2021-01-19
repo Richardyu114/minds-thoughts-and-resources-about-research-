@@ -29,3 +29,6 @@
 - Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer — Raffel et al https://paperswithcode.com/paper/exploring-the-limits-of-transfer-learning
 
 - Hierarchical Multi-Scale Attention for Semantic Segmentation — Tao et al https://paperswithcode.com/paper/hierarchical-multi-scale-attention-for
+
+
+### *<u>2. Chip Huyen的blog post [Machine learning is going real-time](https://huyenchip.com/2020/12/27/real-time-machine-learning.html)，探讨并梳理了机器学习系统的实时性问题和一些案列 </u>*
