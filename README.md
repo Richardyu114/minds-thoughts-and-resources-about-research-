@@ -34,7 +34,7 @@
 ### *<u>2. Chip Huyen的blog post [Machine learning is going real-time](https://huyenchip.com/2020/12/27/real-time-machine-learning.html)，探讨并梳理了机器学习系统的实时性问题和一些案列 </u>*
 
 
-## *2020.1.31*
+## *2021.1.31*
 
 ### *<u>1. 博客文章[A Visual History of Interpretation for Image Recognition](https://thegradient.pub/a-visual-history-of-interpretation-for-image-recognition/)   </u>*
 
