@@ -38,4 +38,4 @@
 
 ### *<u>1. 博客文章[A Visual History of Interpretation for Image Recognition](https://thegradient.pub/a-visual-history-of-interpretation-for-image-recognition/)   </u>*
 
-![](timeline-interpretation-for-img-recognition.gif)
+![dd](https://github.com/Richardyu114/minds-thoughts-and-resources-about-research-/blob/master/images/timeline-interpretation-for-img-recognition.gif)
