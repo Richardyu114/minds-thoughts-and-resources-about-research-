@@ -39,3 +39,8 @@
 ### *<u>1. 博客文章[A Visual History of Interpretation for Image Recognition](https://thegradient.pub/a-visual-history-of-interpretation-for-image-recognition/)   </u>*
 
 ![dd](https://github.com/Richardyu114/minds-thoughts-and-resources-about-research-/blob/master/images/timeline-interpretation-for-img-recognition.gif)
+
+
+## *2021.2.2*
+
+### *<u>1. 同济[万有文](https://blog.csdn.net/xiaoxiaowenqiang)大神的有关vslam, deep learning, object detection等领域有关的资源/教程合集[MVision](https://github.com/Ewenwan/MVision) </u>*
