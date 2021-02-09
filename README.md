@@ -44,3 +44,8 @@
 ## *2021.2.2*
 
 ### *<u>1. 同济[万有文](https://blog.csdn.net/xiaoxiaowenqiang)大神的有关vslam, deep learning, object detection等领域有关的资源/教程合集[MVision](https://github.com/Ewenwan/MVision) </u>*
+
+
+## *2021.2.9*
+
+### *<u>1. WACV 2021文章[Rotate to Attend: Convolutional Triplet Attention Module](https://github.com/LandskapeAI/triplet-attention)  </u>*
