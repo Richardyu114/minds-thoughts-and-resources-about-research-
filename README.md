@@ -49,3 +49,8 @@
 ## *2021.2.9*
 
 ### *<u>1. WACV 2021文章[Rotate to Attend: Convolutional Triplet Attention Module](https://github.com/LandskapeAI/triplet-attention)  </u>*
+
+
+## *2021.3.18*
+
+### *<u>1. [深度学习模型加速小综述](https://zhuanlan.zhihu.com/p/101544149) </u>*
