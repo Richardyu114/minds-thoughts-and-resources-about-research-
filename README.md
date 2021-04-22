@@ -54,3 +54,8 @@
 ## *2021.3.18*
 
 ### *<u>1. [深度学习模型加速小综述](https://zhuanlan.zhihu.com/p/101544149) </u>*
+
+
+## *2021.4.22*
+
+### *<u>1. 论文[Graph-based Thermal-Inertial SLAM with Probabilistic Neural Networks](https://arxiv.org/abs/2104.07196) ，目前看到的为数不多的红外图像与惯导结合的，并使用了ANN </u>*
